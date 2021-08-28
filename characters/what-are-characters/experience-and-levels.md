@@ -2,11 +2,11 @@
 
 Each character starts out at level one, requiring experience attained through successful combat to increase.
 
-Character levels determine the amount of power they have during combat calculations, and in turn determines the SKILL payout on victories.
+Character levels determine the amount of power they have during combat calculations, and in turn determines the Xweapon payout on victories.
 
 ## Level Milestones
 
-Level milestones are specific points where the character receives a large boost in power, and in turn increases their SKILL payout.
+Level milestones are specific points where the character receives a large boost in power, and in turn increases their Xweapon payout.
 
 Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, etc.
 
@@ -14,7 +14,7 @@ Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, e
 
 To calculate whether or not it is time to claim, you can make a copy of the following spreadsheet:
 
-Link to the spreadsheet here: [**CryptoBlades Experience Calculator**](https://docs.google.com/spreadsheets/d/1k3TZUTviY7DH7y4iqaVVuolHwi4GnGF7uudOxcLKUUc/edit?usp=sharing)\*\*\*\*
+Link to the spreadsheet here: [**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1k3TZUTviY7DH7y4iqaVVuolHwi4GnGF7uudOxcLKUUc/edit?usp=sharing)\*\*\*\*
 
 An overview of the experience table can be found below:
 
@@ -24,11 +24,11 @@ An overview of the experience table can be found below:
 
 ![](../../.gitbook/assets/claim-exp.png)
 
-Experience won through battles is stored in the Rewards bar, similar to SKILL.
+Experience won through battles is stored in the Rewards bar, similar to Xweapon.
 
 As claiming experience costs a gas fee for the transaction, it is recommended to only claim your experience for a character if it will push them to the next milestone if the character in question is under level 41.
 
-Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more SKILL gained through fight payouts.
+Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more Xweapon gained through fight payouts.
 
 {% hint style="info" %}
 Often times due to varying win rates, character levels may become desynced.
