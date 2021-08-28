@@ -97,8 +97,8 @@ if charElement < enemyElement (TraitBonus -= 0.075)
 The elemental advantage in regards to character against enemy is as follows:
 
 * Fire beats Earth
-* Earth beats Lightning
-* Lightning beats Water
+* Earth beats Air
+* Air beats Water
 * Water beats Fire
 
 Trait Bonus gets evaluated and then multiplied with Aligned Power to get the players final power value.
@@ -125,7 +125,7 @@ Maximum Player Roll is 4912 \* 1.1 rounded down to 5403.
 
 Enemy Power is a simple ±10% calculation applied to the listed enemy power of whatever enemy the player chose.
 
-The numerical value listed on the combat screen button is used to determine experience and SKILL payouts.
+The numerical value listed on the combat screen button is used to determine experience and Xweapon payouts.
 
 The calculated value with the ±10% applied is used to determine the enemy's rolls in combat
 
