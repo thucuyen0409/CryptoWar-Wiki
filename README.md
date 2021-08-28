@@ -2,7 +2,7 @@
 
 https://wiki.cryptowar.xbn.finance/
 
-CryptoWar is a Play to Earn NFT RPG developed by Riveted Games on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. Players may participate in combat using their assets to earn SKILL tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
+CryptoWar is a Play to Earn NFT RPG developed by Riveted Games on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. Players may participate in combat using their assets to earn xBlade tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
 
 ## Vision
 
@@ -14,14 +14,14 @@ Our mission is to provide a fun and profitable experience for our players, to cr
 
 ## Play to Earn
 
-CryptoWar utilizes a Play-to-Earn model by distributing SKILL through gameplay, and giving value to player NFTs by increasing their use through future features.
+CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features.
 
-NFTs may be freely traded on the marketplace for SKILL tokens, which can then be traded on exchanges or converted to fiat currency.
+NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency.
 
 Currently the following options are available for the player to earn:
 
-* Participating in combat through the use of character and weapon NFTs for SKILL.
-* Minting characters and weapons and selling them for SKILL on the marketplace.
+* Participating in combat through the use of character and weapon NFTs for xBlade.
+* Minting characters and weapons and selling them for xBlade on the marketplace.
 * Trading NFTs with other players for BEP-20 tokens.
 * Exchanging xBlade on a DEX for currency that can be traded on an exchange such as Binance.
 

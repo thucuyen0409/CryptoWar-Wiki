@@ -9,7 +9,7 @@ Combat in CryptoWar utilizes a set of variables calculated from the NFT data the
 * **Trait Bonus** is calculated by checking the element of the character and evaluating if it is strong, neutral, or weak against the chosen enemy's element.
 * **Enemy Power** is the listed power value of the chosen enemy, and is used in determining the enemy's combat roll and the rewards payout.
 
-Using the above information, we can draw several conclusions for CryptoBlades combat that are written out below.
+Using the above information, we can draw several conclusions for CryptoWar combat that are written out below.
 
 ## Elemental Matching
 
@@ -41,7 +41,7 @@ The player's roll is calculated by multiplying **Aligned Character Power** with 
 
 The enemy's roll is calculated by taking their listed power value and applying a ±10%.
 
-If the player's roll is equal to or greater than the enemy's roll, they win the fight. Experience and SKILL payouts can then be calculated. The formulas used to get those can be found here:
+If the player's roll is equal to or greater than the enemy's roll, they win the fight. Experience and xBlade payouts can then be calculated. The formulas used to get those can be found here:
 
 {% page-ref page="combat-rewards.md" %}
 

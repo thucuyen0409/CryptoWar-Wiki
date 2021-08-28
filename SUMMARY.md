@@ -1,20 +1,20 @@
 # Table of contents
 
-* [CryptoBlades](README.md)
+* [CryptoWar](README.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
-  * [Purchasing SKILL](getting-started/purchasing-skill.md)
+  * [Purchasing xBlade](getting-started/purchasing-skill.md)
   * [Gas Fees](getting-started/gas-fees.md)
   * [Multiple Accounts](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions.md)
 * [Infrastructure](infrastructure.md)
 * [Other Links](other-links.md)
 
-## SKILL
+## xBlade
 
-* [What is SKILL?](skill/what-is-skill/README.md)
-  * [Spending SKILL](skill/what-is-skill/spending-skill.md)
-  * [Obtaining SKILL](skill/what-is-skill/obtaining-skill.md)
+* [What is xBlade?](skill/what-is-skill/README.md)
+  * [Spending xBlade](skill/what-is-skill/spending-skill.md)
+  * [Obtaining xBlade](skill/what-is-skill/obtaining-skill.md)
   * [Staking](skill/what-is-skill/staking.md)
   * [Oracle](skill/what-is-skill/oracle.md)
 

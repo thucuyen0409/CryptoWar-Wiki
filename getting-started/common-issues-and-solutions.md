@@ -2,7 +2,7 @@
 
 ## Lag / Slow Loading
 
-CryptoBlades NFTs are 3D assets that are rendered on screen. If this causes any lag or slowdowns you may disable 3D graphics by clicking the gear icon on the upper right side of the screen and turning 3D graphics off there.
+CryptoWar NFTs are 3D assets that are rendered on screen. If this causes any lag or slowdowns you may disable 3D graphics by clicking the gear icon on the upper right side of the screen and turning 3D graphics off there.
 
 ![](../.gitbook/assets/3d-graphics.png)
 
@@ -24,9 +24,9 @@ To avoid this, you can stop fighting before the hour is done to avoid any failed
 
 ![](../.gitbook/assets/welcome-page.png)
 
-To get past the initial welcome page, a minimum amount of SKILL is required to be present in your wallet indicated by the cost to recruit your first character.
+To get past the initial welcome page, a minimum amount of xBlade is required to be present in your wallet indicated by the cost to recruit your first character.
 
-Please proceed to the following page to learn how to purchase SKILL:
+Please proceed to the following page to learn how to purchase xBlade:
 
 {% page-ref page="purchasing-skill.md" %}
 

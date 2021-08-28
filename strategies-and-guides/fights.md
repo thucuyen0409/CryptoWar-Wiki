@@ -20,7 +20,7 @@ As much as possible, try to avoid fighting into elemental disadvantage.
 
 Sometimes you get sent a randomized set of enemies where you have no elemental advantage. If you have the stamina to spare, you may opt to wait for the next refresh to receive a new set of enemies to choose from.
 
-Every hour at UTC +0, the enemies refresh. CryptoBlades prevents combat in the final 30 seconds of each hour to prevent EVM errors, though it is recommended to wait for the full refresh if it is about to come to prevent any transaction errors due to missing enemies.
+Every hour at UTC +0, the enemies refresh. CryptoWar prevents combat in the final 30 seconds of each hour to prevent EVM errors, though it is recommended to wait for the full refresh if it is about to come to prevent any transaction errors due to missing enemies.
 
 ## High Power and Low Power
 
@@ -28,9 +28,9 @@ Enemy power ranges from ±10% of the calculated value, and as such have a wide v
 
 The choice to target a high powered enemy against a low powered enemy boils down to choosing payout over win rate.
 
-Choosing high powered enemies have a higher chance of loss, but have a higher experience and SKILL payout as well.
+Choosing high powered enemies have a higher chance of loss, but have a higher experience and xBlade payout as well.
 
-Choosing low powered enemies results in a higher win rate with a lower experience gain and SKILL payout.
+Choosing low powered enemies results in a higher win rate with a lower experience gain and xBlade payout.
 
 For new players, it is recommended to choose lower powered enemies to guarantee a reward and experience progression.
 

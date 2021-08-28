@@ -26,14 +26,14 @@ Your seed phrase will be used if you want to import your wallet to a fresh MetaM
 
 Never give your seed phrase out to anyone. This can be used similar to your password to access your account.
 
-CryptoBlades developers and moderators will never ask for your seed phrase and password.
+CryptoWar developers and moderators will never ask for your seed phrase and password.
 {% endhint %}
 
 ## Connecting to the Binance Smart Chain
 
 After you create an account on MetaMask, it will default to the Ethereum Mainnet.
 
-CryptoBlades and SKILL requires your wallet to be set to the Binance Smart Chain Mainnet.
+CryptoWar and xBlade requires your wallet to be set to the Binance Smart Chain Mainnet.
 
 The steps to add the BSC network are outlined below:
 
@@ -61,7 +61,7 @@ The steps to add the BSC network are outlined below:
 
 ![](../.gitbook/assets/set-to-bsc-metamask.png)
 
-Congratulations, you are now ready to receive BNB in your address and purchase SKILL.
+Congratulations, you are now ready to receive BNB in your address and purchase xBlade.
 
 
 

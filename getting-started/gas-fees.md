@@ -1,10 +1,10 @@
 # Gas Fees
 
-CryptoBlades operates purely on-chain, and due to this there is a necessity for gas fees to be constantly paid by the players using BNB.
+CryptoWar operates purely on-chain, and due to this there is a necessity for gas fees to be constantly paid by the players using BNB.
 
 Gas fees are necessary to conduct operations on the Binance Smart Chain, and operating on-chain through the use of [Chainlink's VRF](https://docs.chain.link/docs/chainlink-vrf/) technology ensures that all entropy-based gameplay scenarios such as minting NFTs or combat will always be provably fair.
 
-Players are always required to hold an amount of BNB in your MetaMask wallet to ensure the capability of conducting transactions and interacting with the CryptoBlades smart contracts.
+Players are always required to hold an amount of BNB in your MetaMask wallet to ensure the capability of conducting transactions and interacting with the CryptoWar smart contracts.
 
 The gas fees usually cost around 0.0007 to 0.0010 BNB depending on the transaction, however certain transactions such as claiming experience can be higher depending on the numerical data involved.
 
@@ -30,7 +30,7 @@ The current recommended amount of BNB is 0.16, give or take a few skill dependin
 
 This amount will sustain a player for a week's worth of fights, currently costing around 0.142 BNB give or take a few BNB to account for network traffic.
 
-The remaining BNB will be used for the various transactions a player might perform, such as claiming/staking SKILL, claiming experience, forging, etc.
+The remaining BNB will be used for the various transactions a player might perform, such as claiming/staking xBlade, claiming experience, forging, etc.
 
 
 
