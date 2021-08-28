@@ -2,7 +2,7 @@
 
 ## Combat Variables
 
-Combat in CryptoBlades utilizes a set of variables calculated from the NFT data the player owns. These variables are outlined as follows.
+Combat in CryptoWar utilizes a set of variables calculated from the NFT data the player owns. These variables are outlined as follows.
 
 * **Unaligned Character Power** is calculated using the character's current level, and the selected weapon without considering any elemental matching.
 * **Aligned Character Power** calculated the same as above, except it takes into account if any attributes match the character's element, or if the attribute is PWR.
@@ -19,7 +19,7 @@ Based on the formulas for combat, we can make several key definitive statements.
 
 * Matching elements is important for win rate and experience gain calculations.
 * Matching elements is NOT important in calculating enemy power range.
-* Matching elements is NOT important in calculating SKILL payout.
+* Matching elements is NOT important in calculating Xweapon payout.
 
 ## Formulas
 
