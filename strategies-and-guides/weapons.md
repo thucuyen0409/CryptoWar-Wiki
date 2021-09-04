@@ -2,19 +2,22 @@
 
 ## Choosing a Weapon
 
-The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character, your expected win rate should not fluctuate even if you use a higher rarity weapon and face higher powered enemies.
+The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character,  win rate should not fluctuate even if you use a higher rarity weapon and face higher powered monsters.
 
-The recommendation is to find a good 4-star or 5-star weapon to start with, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
+
+It is advisable to find a good 4-star or 5-star weapon to begin earning xBlade, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
+
+If you cannot buy or mint a 4-5 star weapon, choose a weapon with as high numerical stats as possible for maximum xBlade payout.
 
 ## Weapon Element
 
-Because of the Trait Bonus in the combat formula, it is always recommended to use a weapon whose element matches the character wielding it.
+Because of the Trait Bonus in the combat formula, it is always recommended to use a weapon whose element matches the hero
 
-Using a weapon whose element matches the character gives a bonus equivalent to choosing an enemy where you have advantage against.
+Using a weapon whose element matches the hero provides a bonus equivalent to choosing a monster where you have advantage against.
 
 ## Weapon Attributes
 
-The weapon's attributes will serve as the main deciding point on what weapon to get assuming the element of the weapon matches the character.
+When the element of the weapon matches the character, it comes down to weapon's attributes to decide if it is a good weapon.
 
 The ideal scenario is to get a weapon whose elements and attributes all match the character, and all attributes having high numerical values. Such weapons are valued very highly, and can get quite expensive on the marketplace.
 
