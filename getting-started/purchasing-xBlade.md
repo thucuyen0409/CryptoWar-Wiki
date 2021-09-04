@@ -4,7 +4,7 @@ Once your MetaMask has been connected to the BSC network and has received an app
 
 ## Purchasing xBlade on a DEX
 
-xBlade can be purchased on a decentralized exchange such as ApeSwap using BNB.
+xBlade can be purchased on a decentralized exchange such as Pancakeswap using BNB.
 
 The steps to purchasing xBlade are outlined below:
 
