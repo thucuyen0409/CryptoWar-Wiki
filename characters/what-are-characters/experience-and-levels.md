@@ -1,12 +1,12 @@
 # Character Levels
 
-Each character starts out at level one, requiring experience attained through successful combat to increase.
+Each character starts out at level one, in order to level up, character must acquire experience through won combats.
 
-Character levels determine the amount of power they have during combat calculations, and in turn determines the Xweapon payout on victories.
+Character levels determine the amount of power they have during combat calculations, and in turn determines the xBlade n payout if victories.
 
 ## Level Milestones
 
-Level milestones are specific points where the character receives a large boost in power, and in turn increases their Xweapon payout.
+Level milestones are specific points where the character receives a large boost in power, and in turn increases their xBlade payout.
 
 Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, etc.
 
@@ -20,15 +20,15 @@ An overview of the experience table can be found below:
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQf3KCOa1X2-R7wGop0lVzePGIPEZ\_ONe4KXAcuuxHWg8lNGBLmAk1lDfRUCUESA28ZqZ-xKwA0BlWG/pubhtml?gid=0&single=true" caption="Experience Table - July 3rd, 2021" %}
 
-## Claiming Experience
+##  When to claim Experience ?
 
 ![](../../.gitbook/assets/claim-exp.png)
 
-Experience won through battles is stored in the Rewards bar, similar to Xweapon.
+Experience won through battles is stored in the Rewards bar, similar to xBlade
 
 As claiming experience costs a gas fee for the transaction, it is recommended to only claim your experience for a character if it will push them to the next milestone if the character in question is under level 41.
 
-Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more Xweapon gained through fight payouts.
+Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more xBlades gained through fight payouts.
 
 {% hint style="info" %}
 Often times due to varying win rates, character levels may become desynced.
