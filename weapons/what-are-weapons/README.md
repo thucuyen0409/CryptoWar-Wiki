@@ -14,9 +14,9 @@ The usage of a weapon is not tied to a character, so one weapon may be used by a
 
 Currently there is no way to change any of the values the weapon may roll.
 
-## CBW
+## CWW
 
-CBW stands for CryptoWar Weapon, and are the weapon NFTs present on your wallet.
+CWW stands for CryptoWar Weapon, and are the weapon NFTs present on your wallet.
 
 If you wish to have CBW visible on your MetaMask wallet, you may add the token through it's contract address found below:
 
@@ -53,7 +53,7 @@ There is currently no guarantee that a specific amount of rolls will yield a spe
 
 ## Weapon Elements
 
-The element of a weapon is randomly determined upon minting. Weapons share the same elements as characters \(Fire, Earth, Lightning, Water\).
+The element of a weapon is randomly determined upon minting. Weapons share the same elements as characters \(Fire, Earth, Air, Water\).
 
 The element of the weapon is used for calculating the player roll for combat.
 
