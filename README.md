@@ -6,17 +6,19 @@ CryptoWar is a Play to Earn NFT RPG forked from https://www.cryptoblades.io/ and
 
 ## Vision
 
-Our vision is for gamers to regain control of their digital assets, Play to Earn, and increase adoption of blockchain technology in their everyday lives.
+Our vision is creating a game that  has good graphic, easy to play and help to develop the ecosystem of XBN. We would continously improve CryptoWar to catch the trend of NFT play- to-earn market.
 
-## Mission
+## Objective
 
-Our mission is to provide a fun and profitable experience for our players, to create a healthy and excited community around blockchain gaming, and build an ecosystem of Play-To-Earn systems to meet the needs of all gamers from around the world.
+Our objective is to provide a fun and profitable experience for our players, and also for long time holders . XBN will create a healthy and excited community around blockchain gaming, and build an ecosystem of Play-To-Earn systems to meet the needs of all gamers from around the world.
 
 ## Play to Earn
 
 CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features.
 
-NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency.
+NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency. 
+We will create rare and ultra rare NFTs that worth collecting and highly valueable.
+At different point 6 months , 12 months and 18 months, XBN.finance will buy back rare NFTs to display in our Hall of fames
 
 Currently the following options are available for the player to earn:
 
