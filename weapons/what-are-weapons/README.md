@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/weapons.png)
 
-Weapons are one of the main NFTs the player can possess in CryptoWar. 
+Weapons are one of the main NFTs the player can obtain, trade and earn money in the game 
 
 Unlike characters, each account can hold an unlimited amount of weapons.
 
@@ -10,7 +10,7 @@ The price to mint weapons is displayed on the "Forge" button in the Blacksmith t
 
 Each weapon comes with a random element and a random rarity denoted by the amount of stars it possesses. The rarity of the weapon determines the amount of attributes it has and the values that these attributes may roll.
 
-The usage of a weapon is not tied to a character, so one weapon may be used by all four of your characters.
+The usage of a weapon is not tied to a character, so one weapon may be used by all four of your characters. This is why it is important to have the team with same element to maximize the weapon.
 
 Currently there is no way to change any of the values the weapon may roll.
 
@@ -29,8 +29,9 @@ Set the decimal to "0" if prompted.
 ## Weapon Durability
 
 ![](../../.gitbook/assets/weapon-stamina.png)
+After fighting many times, your weapon will need to cool down.
 
-Weapons have durability, which serves to limit how often a weapon can be used to prevent people from simply passing one weapon around to multiple accounts.
+All Weapons have durability to limit how many times a weapon can be used to prevent people from passing a weapon around to take advantages.
 
 Durability recovers at a rate equal to character stamina, so a single account can use a single weapon for fighting with four characters.
 
@@ -48,7 +49,7 @@ The rarity of a weapon is randomly determined upon minting. Currently the rates 
 * 35% chance for a 2 star weapon
 * 44% chance for a 1 star weapon
 
-There is currently no pity system, or a form of guarantee that a specific amount of rolls will yield a specific rarity of weapon.
+There is currently no guarantee that a specific amount of rolls will yield a specific rarity of weapon. Some are born lucky but the more you work, the more chance of fortune you encounter
 
 ## Weapon Elements
 
