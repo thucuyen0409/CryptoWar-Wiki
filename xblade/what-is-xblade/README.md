@@ -1,6 +1,6 @@
 # What is xBlade?
 
-xBlade serves as the native currency for CryptoWar. Players leverage xBlade to acquire characters, forge and reforge weapons, and to buy and sell on the CryptoWar marketplace.
+xBlade is the main currency for CryptoWar game. Players utilize xBlade to mint NFT such as characters, weapons, upgrading weapon, to buy and sell on the CryptoWar marketplace.
 
 There is a maximum supply of 1,000,000 xBlade tokens.
 
@@ -15,8 +15,7 @@ The supply of xBlade is designated as follows:
 The development fund vests at a rate of 25% per quarter. The Investor fund vests at a rate of 25% per month.
 
 ## Game Health
-
-The most important part of CryptoWar is the game contract and maintaining enough xBlade to always be able to pay out players when necessary.
+The success of the game relies on maintaining enough xBlade to pay out players when necessary.
 
 The main mechanism of tokenomic control is the oracle, which informs the game contract about the current dollar value of xBlade and is used to stabilize the different game functions such as minting NFTs and fight payouts to maintain a stable dollar value.
 
