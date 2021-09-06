@@ -81,7 +81,7 @@ Aligned Power is used as is when calculating experience gain, or multiplied with
 
 ## Trait Bonus
 
-![](../../.gitbook/assets/trait-bonus.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/dea8b4851ebe0138463f3c8c7c89170b2b9c37ce/.gitbook/assets/trait-bonus.png)
 
 Trait Bonus is a variable multiplied to Aligned Power and used to determine the player's combat roll.
 

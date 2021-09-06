@@ -10,5 +10,3 @@ The instructions to install MetaMask can be found here:
 
 Once your MetaMask wallet has been setup, instructions to purchase xBlade on a DEX can be found here:
 
-{% page-ref page="purchasing-skill.md" %}
-

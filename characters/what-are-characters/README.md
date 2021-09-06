@@ -1,8 +1,8 @@
 # What are Characters?
 
-![](../../.gitbook/assets/characters.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/3b019ad181617871935f37f99d835907c5a0307a/.gitbook/assets/characters.png)
 
-Characters are one of the main NFTs the player can possess in CryptoWar. 
+Characters are one of the main NFTs the player can possess in CryptoWar.
 
 Each account can hold a maximum of four characters at any given time.
 

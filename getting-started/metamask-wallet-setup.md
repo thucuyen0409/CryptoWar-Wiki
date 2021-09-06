@@ -39,29 +39,25 @@ The steps to add the BSC network are outlined below:
 
 1. Go to the Settings menu by clicking on the circle in the upper right hand side of the screen.
 
-![](../.gitbook/assets/settings-metamask.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/settings-metamask.png)
 
-2. Click on "Networks" and "Add Network".
+1. Click on "Networks" and "Add Network".
 
-![](../.gitbook/assets/networks-metamask.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/networks-metamask.png)
 
-3. Input the following information:
+1. Input the following information:
+2. Network Name : Binance Smart Chain
+3. New RPC URL : [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/)
+4. Chain ID : 56
+5. Currency Symbol : BNB
+6. Block Explorer URL : [https://bscscan.com](https://bscscan.com)
 
-* Network Name : Binance Smart Chain
-* New RPC URL : https://bsc-dataseed.binance.org/
-* Chain ID : 56
-* Currency Symbol : BNB
-* Block Explorer URL : https://bscscan.com
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/networks-info-metamask.png)
 
-![](../.gitbook/assets/networks-info-metamask.png)
+1. Click "Save" and return to the main menu.
+2. Verify that your MetaMask has been set to the Binance Smart Chain network in the upper right hand side of the screen.
 
-4. Click "Save" and return to the main menu.
-
-5. Verify that your MetaMask has been set to the Binance Smart Chain network in the upper right hand side of the screen.
-
-![](../.gitbook/assets/set-to-bsc-metamask.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/set-to-bsc-metamask.png)
 
 Congratulations, you are now ready to receive BNB in your address and purchase xBlade.
-
-
 

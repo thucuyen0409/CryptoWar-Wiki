@@ -20,11 +20,11 @@ $$
 
 Gas Offset is shown in the earnings calculator as follows:
 
-![Taken August 1, 2021](../../.gitbook/assets/payout-calc-offset.png)
+![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-offset.png)
 
 Baseline is also shown in the earnings calculator as follows:
 
-![Taken August 1, 2021](../../.gitbook/assets/payout-calc-baseline.png)
+![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-baseline.png)
 
 These numbers are dynamically adjusted by the Oracle, taking into account Xweapon dollar value.
 

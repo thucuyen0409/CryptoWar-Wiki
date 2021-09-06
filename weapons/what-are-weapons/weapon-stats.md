@@ -6,7 +6,7 @@ Each attribute comes with an element pairing and a numerical value.
 
 ## Attribute Count
 
-![](../../.gitbook/assets/weapon-attribute-count.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-count.png)
 
 The rarity of the weapons is used to determine the amount of attributes each weapon has according to the table below.
 
@@ -18,7 +18,7 @@ The rarity of the weapons is used to determine the amount of attributes each wea
 
 ## Attribute Element
 
-![](../../.gitbook/assets/weapon-attribute-element.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-element.png)
 
 Attributes come in five different forms, with four of the five having a specific element pairing and one attribute being neutral. Refer to the table below for element pairings.
 
@@ -36,7 +36,7 @@ Pairing attributes to the character element only affects the chance of winning w
 
 ## Attribute Value
 
-![](../../.gitbook/assets/weapon-attribute-value.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-value.png)
 
 Each attribute also has a numerical value attached to it that is randomized from a minimum and maximum roll that is determined by the weapon rarity. Refer to the table below for stat values.
 
@@ -63,7 +63,7 @@ For practical purposes in evaluating weapons, the Displayed Percentages explaine
 
 ## Displayed Percentages
 
-![](../../.gitbook/assets/weapon-attribute-percentage.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-percentage.png)
 
 When hovering over a weapon with a character selected, the player will find a percentage value next to each attribute.
 

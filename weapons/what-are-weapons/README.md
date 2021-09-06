@@ -1,8 +1,8 @@
 # What are Weapons?
 
-![](../../.gitbook/assets/weapons.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapons.png)
 
-Weapons are one of the main NFTs the player can obtain, trade and earn money in the game 
+Weapons are one of the main NFTs the player can obtain, trade and earn money in the game
 
 Unlike characters, each account can hold an unlimited amount of weapons.
 
@@ -28,8 +28,7 @@ Set the decimal to "0" if prompted.
 
 ## Weapon Durability
 
-![](../../.gitbook/assets/weapon-stamina.png)
-After fighting many times, your weapon will need to cool down.
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapon-stamina.png) After fighting many times, your weapon will need to cool down.
 
 All Weapons have durability to limit how many times a weapon can be used to prevent people from passing a weapon around to take advantages.
 

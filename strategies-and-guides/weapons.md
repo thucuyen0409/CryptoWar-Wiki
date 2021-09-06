@@ -2,8 +2,7 @@
 
 ## Choosing a Weapon
 
-The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character,  win rate should not fluctuate even if you use a higher rarity weapon and face higher powered monsters.
-
+The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character, win rate should not fluctuate even if you use a higher rarity weapon and face higher powered monsters.
 
 It is advisable to find a good 4-star or 5-star weapon to begin earning xBlade, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
 

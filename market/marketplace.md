@@ -8,7 +8,7 @@ To remove the possibility for scams when conducting trades through the use of th
 
 The first notification the player gets when purchasing NFTs on the marketplace is an approval transaction similar to the one pictured below:
 
-![](../.gitbook/assets/allow-skill-spending.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/allow-skill-spending.png)
 
 CryptoWar does not have free authorization to spend xBlade directly from your MetaMask wallet, and therefore must ask for authorization each time the player wants to make a marketplace transaction.
 
@@ -38,7 +38,7 @@ Attempting to list or trade a locked item incurs a 0.285 gas fee error. Please d
 
 ## Browse NFTs
 
-![](../.gitbook/assets/browse-nfts.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/browse-nfts.png)
 
 The Browse NFTs tab lets you view the currently listed characters and weapons.
 
@@ -48,7 +48,7 @@ Due to the current lack of pagination, only the first 60 pulled results will be 
 
 ## Search NFTs
 
-![](../.gitbook/assets/search-nfts.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/search-nfts.png)
 
 If you have access to the asset ID of the NFT you are purchasing, or you have access to the wallet address of the seller, you may view them directly under the Search NFTs tab.
 
@@ -66,7 +66,7 @@ De-listing an item still incurs the 24 hour trade lock, so you won't immediately
 
 ## List NFTs
 
-![](../.gitbook/assets/list-nfts.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/list-nfts.png)
 
 The List NFTs tab lets you list your own NFTs on the marketplace. You can view the characters and weapons on your wallet and list them at a price of your choosing.
 

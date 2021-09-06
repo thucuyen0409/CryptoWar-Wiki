@@ -42,5 +42,3 @@ Choosing low powered enemies results in a higher win rate with a lower experienc
 
 For new players, it is recommended to choose lower powered enemies to guarantee a reward and experience progression.
 
-
-

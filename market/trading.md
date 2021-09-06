@@ -28,21 +28,19 @@ To start, please ensure that the receiving wallet has an extra character slot, a
 
 1. Click on "Connect to Web3" as shown in the picture below. Do this until it reflects the address of your current MetaMask account.
 
-![](../.gitbook/assets/char-web3.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/char-web3.png)
 
-![](../.gitbook/assets/char-connected-web3.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/char-connected-web3.png)
 
-2. Scroll down to Function 13. safeTransferFrom and input the following data:
+1. Scroll down to Function 13. safeTransferFrom and input the following data:
+2. from \(address\) - The owner's address goes here
+3. to \(address\) - The receiver's address goes here
+4. tokenID \(uint256\) - The character ID goes here
 
-* from \(address\) - The owner's address goes here
-* to \(address\) - The receiver's address goes here
-* tokenID \(uint256\) - The character ID goes here
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/function-13-character.png)
 
-![](../.gitbook/assets/function-13-character.png)
-
-3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
-
-4. Pay the gas fee and wait for your transaction to complete.
+1. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
+2. Pay the gas fee and wait for your transaction to complete.
 
 {% hint style="info" %}
 Make sure that the account in possession of the character is the one connected to the contract page.
@@ -64,21 +62,19 @@ The steps to trade weapons is identical to character trading, except the functio
 
 1. Click on "Connect to Web3" as shown in the picture below. Do this until it reflects the address of your current MetaMask account.
 
-![](../.gitbook/assets/connect-web3.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connect-web3.png)
 
-![](../.gitbook/assets/connected-web3.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connected-web3.png)
 
-2. Scroll down to Function 16. safeTransferFrom and input the following data:
-
-* from \(address\) - The owner's address goes here
-* to \(address\) - The receiver's address goes here
-* tokenID \(uint256\) - The weapon ID goes here
+1. Scroll down to Function 16. safeTransferFrom and input the following data:
+2. from \(address\) - The owner's address goes here
+3. to \(address\) - The receiver's address goes here
+4. tokenID \(uint256\) - The weapon ID goes here
 
 ![](https://user-images.githubusercontent.com/43546617/127622676-72634467-cb7a-4138-81a2-d949b9f477c9.png)
 
-3. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
-
-4. Pay the gas fee and wait for your transaction to complete.
+1. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
+2. Pay the gas fee and wait for your transaction to complete.
 
 {% hint style="info" %}
 Make sure that the account in possession of the weapon is the one connected to the contract page.

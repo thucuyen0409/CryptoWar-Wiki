@@ -14,11 +14,11 @@ Combat gas fees are listed at 0.0025, however that is just a maximum amount that
 
 Fighting prompts players for a set gas cost that is different from what is actually charged as displayed in the pictures below.
 
-![](../.gitbook/assets/sample-fight-gas-fee.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/sample-fight-gas-fee.png)
 
 The actual gas cost for the transaction is a much lesser 0.0007 BNB on average as displayed in the next picture.
 
-![](../.gitbook/assets/actual-fight-gas-fee.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/actual-fight-gas-fee.png)
 
 Gas costs for transactions are subject to volatility depending on network traffic on the Binance Smart Chain.
 
@@ -31,6 +31,4 @@ The current recommended amount of BNB is 0.16, give or take a few skill dependin
 This amount will sustain a player for a week's worth of fights, currently costing around 0.142 BNB give or take a few BNB to account for network traffic.
 
 The remaining BNB will be used for the various transactions a player might perform, such as claiming/staking xBlade, claiming experience, forging, etc.
-
-
 

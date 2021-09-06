@@ -1,6 +1,6 @@
 # Reforging
 
-![](../.gitbook/assets/reforge.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge.png)
 
 Reforging weapons is the process of spending xBlade tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
 
@@ -8,7 +8,7 @@ Alongside weapon forging, reforging serves as one of the two xBlade sinks in the
 
 ## LB, 4B, and 5B
 
-![](../.gitbook/assets/reforge-lb-4b-5b.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-lb-4b-5b.png)
 
 A reforged weapon displays new information when hovered over. This is the LB, 4B, 5B, and Bonus Power.
 
@@ -20,7 +20,7 @@ LB stands for _Low Star Burn_ and is the total value of one to three star weapon
 
 ## Bonus Power
 
-![](../.gitbook/assets/reforge-bonus-power.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-bonus-power.png)
 
 Bonus Power is a new stat gained when reforging that is used alongside weapon attributes to determine player power for combat rolls.
 

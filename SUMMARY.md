@@ -3,7 +3,7 @@
 * [CryptoWar](README.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
-  * [Purchasing xBlade](getting-started/purchasing-skill.md)
+  * [Purchasing xBlade](getting-started/purchasing-xblade.md)
   * [Gas Fees](getting-started/gas-fees.md)
   * [Multiple Accounts](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions.md)
@@ -12,11 +12,11 @@
 
 ## xBlade
 
-* [What is xBlade?](skill/what-is-skill/README.md)
-  * [Spending xBlade](skill/what-is-skill/spending-skill.md)
-  * [Obtaining xBlade](skill/what-is-skill/obtaining-skill.md)
-  * [Staking](skill/what-is-skill/staking.md)
-  * [Oracle](skill/what-is-skill/oracle.md)
+* [What is xBlade?](xblade/what-is-xblade/README.md)
+  * [Spending xBlade](xblade/what-is-xblade/spending-xblade.md)
+  * [Obtaining xBlade](xblade/what-is-xblade/obtaining-xblade.md)
+  * [Staking](xblade/what-is-xblade/staking.md)
+  * [Oracle](xblade/what-is-xblade/oracle.md)
 
 ## Characters
 
@@ -46,4 +46,12 @@
 * [Characters](strategies-and-guides/characters.md)
 * [Weapons](strategies-and-guides/weapons.md)
 * [Fights](strategies-and-guides/fights.md)
+
+## Links
+
+* [HomePage](https://cryptowar.network)
+
+---
+
+* [Play CryptoWar](https://play.cryptowar.network)
 

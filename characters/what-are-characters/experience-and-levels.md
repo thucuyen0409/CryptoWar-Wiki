@@ -18,11 +18,11 @@ Link to the spreadsheet here: [**CryptoWar Experience Calculator**](https://docs
 
 An overview of the experience table can be found below:
 
-   ![CWE](https://i.imgur.com/UjYu1Mu.png)
+![CWE](https://i.imgur.com/UjYu1Mu.png)
 
-##  When to claim Experience ?
+## When to claim Experience ?
 
-![](../../.gitbook/assets/claim-exp.png)
+![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/f392473443d3dd3c5be8a4021f5df9b0cf226d6b/.gitbook/assets/claim-exp.png)
 
 Experience won through battles is stored in the Rewards bar, similar to xBlade
 
