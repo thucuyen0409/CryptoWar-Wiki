@@ -1,6 +1,5 @@
 # Other Links
 
-\*\*\*\*[**CryptoWar FAQ**](https://www.CryptoWar-faq.com/index.html) - Maintained by Guhs\#6349 & zannie\#9961 on Discord.
 
 \*\*\*\*[**Combat Calculator**](https://wax-dapps.site/crypto-blades/combat) _\*\*_- Simulates combat through user input of different variables.
 
