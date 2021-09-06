@@ -1,6 +1,6 @@
 # CryptoWar
 
-This wiki is published at: [https://wiki.cryptowar.xbn.finance/](https://wiki.cryptowar.xbn.finance/)
+This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
 
 CryptoWar is a Play to Earn NFT RPG forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. Players may participate in combat using their assets to earn xBlade tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
 
