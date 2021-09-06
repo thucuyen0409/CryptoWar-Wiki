@@ -14,11 +14,11 @@ Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, e
 
 To calculate whether or not it is time to claim, you can make a copy of the following spreadsheet:
 
-Link to the spreadsheet here: [**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1k3TZUTviY7DH7y4iqaVVuolHwi4GnGF7uudOxcLKUUc/edit?usp=sharing)\*\*\*\*
+Link to the spreadsheet here: [**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3_ZZluteJ8DxeZIQio_jLK21ijs/edit?usp=sharing)
 
 An overview of the experience table can be found below:
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQf3KCOa1X2-R7wGop0lVzePGIPEZ\_ONe4KXAcuuxHWg8lNGBLmAk1lDfRUCUESA28ZqZ-xKwA0BlWG/pubhtml?gid=0&single=true" caption="Experience Table - July 3rd, 2021" %}
+   ![CWE](https://i.imgur.com/UjYu1Mu.png)
 
 ##  When to claim Experience ?
 
