@@ -8,8 +8,8 @@ xBlade serves as the native game currency for CryptoWar. Players leverage xBlade
 | NFT Farming & Staking | 20% |
 | IDO | 20% - 50% at TGE, then lock for 1 month |
 | Development Fund | 17% |
-| Airdrop & Marketing | 8% |
-| Liquidity Pool | 18% |
+| Airdrop & Marketing | 9% |
+| Liquidity Pool | 17% |
 
 The development fund vests at a rate of 25% per quarter. 
 
