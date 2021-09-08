@@ -52,7 +52,7 @@
 
 ---
 
-* [FAQ](faq.md)
+* [Help & FAQ](faq.md)
 * [DISCLAIMER AND  RIGHTS](disclaimer-and-rights.md)
 
 ## Links
