@@ -29,6 +29,7 @@
 
 * [What are Weapons?](weapons/what-are-weapons/README.md)
   * [Weapon Attributes](weapons/what-are-weapons/weapon-stats.md)
+* [Forging](weapons/forging.md)
 * [Reforging](weapons/reforging.md)
 
 ## Combat
