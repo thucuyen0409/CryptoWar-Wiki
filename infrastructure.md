@@ -6,7 +6,7 @@ Having all gameplay done on-chain provides a level of trust not commonly found i
 
 ## CDN
 
-CryptoWar has a 99.99% uptime on their SLA with Netlify, and ensures smooth production and deployment of any features pushed to the website, as well as the usability of the website for all players.
+CryptoWar has a 99.99% uptime on their SLA with Cloudflare, and ensures smooth production and deployment of any features pushed to the website, as well as the usability of the website for all players.
 
 DDOS attacks can disrupt marketplace and leaderboard data, but being on the blockchain ensures that assets are always safe and the game is always playable.
 

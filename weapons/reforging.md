@@ -4,7 +4,7 @@
 
 Reforging weapons is the process of spending xBlade tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
 
-Alongside weapon forging, reforging serves as one of the two xBlade sinks in the game. Reforging also gives value to the massive amounts of one to three star weapons that a player may receive when trying to forge for four or five stars.
+Alongside weapon forging, reforging serves as one of the two xBlade sinks in the game. Reforging also gives value to the massive amounts of one to three-star weapons that a player may receive when trying to forge for four or five stars.
 
 ## LB, 4B, and 5B
 
@@ -12,9 +12,9 @@ Alongside weapon forging, reforging serves as one of the two xBlade sinks in the
 
 A reforged weapon displays new information when hovered over. This is the LB, 4B, 5B, and Bonus Power.
 
-LB stands for _Low Star Burn_ and is the total value of one to three star weapons burnt.
+LB stands for _Low Star Burn_ and is the total value of one to three-star weapons burnt.
 
-4B stands for _Four Star Burn_ and is the total value of four star weapons burnt.
+4B stands for _Four Star Burn_ and is the total value of four-star weapons burnt.
 
 5B stands for _Five Star Burn_ and is the total value of five star weapons burnt.
 
