@@ -50,6 +50,11 @@
 * [Weapons](strategies-and-guides/weapons.md)
 * [Fights](strategies-and-guides/fights.md)
 
+---
+
+* [FAQ](faq.md)
+* [DISCLAIMER AND  RIGHTS](disclaimer-and-rights.md)
+
 ## Links
 
 * [HomePage](https://cryptowar.network)
@@ -57,5 +62,4 @@
 ---
 
 * [Play CryptoWar](https://play.cryptowar.network)
-* [DISCLAIMER AND  RIGHTS](disclaimer-and-rights.md)
 
