@@ -50,10 +50,11 @@
 * [Weapons](strategies-and-guides/weapons.md)
 * [Fights](strategies-and-guides/fights.md)
 
----
+## Information
 
-* [Help & FAQ](faq.md)
-* [DISCLAIMER AND  RIGHTS](disclaimer-and-rights.md)
+* [DISCLAIMER AND  RIGHTS](information/disclaimer-and-rights.md)
+* [Help & FAQ](information/faq.md)
+* [Terms of Use](information/terms-of-use.md)
 
 ## Links
 
