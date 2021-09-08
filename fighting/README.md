@@ -1,4 +1,4 @@
-# Fighting
+# Combat / Fighting
 
 Combat serves as the primary source of gaining Xblades through the use of your character and weapon NFTs. Fighting consists of the player selecting a character and a weapon, and selecting an enemy from a randomized set based on your calculated power.
 

@@ -32,7 +32,7 @@ Attributes come in five different forms, with four of the five having a specific
 
 Pairing attributes to the character element only affects the chance of winning when using that weapon in combat. More information on combat calculation can be found here:
 
-{% page-ref page="../../combat/fighting/" %}
+{% page-ref page="../fighting/" %}
 
 ## Attribute Value
 
@@ -55,7 +55,7 @@ Attribute values are used alongside character stats in determining the following
 
 More information on combat calculations can be found here:
 
-{% page-ref page="../../combat/fighting/" %}
+{% page-ref page="../fighting/" %}
 
 {% hint style="info" %}
 For practical purposes in evaluating weapons, the Displayed Percentages explained in the section below will be more beneficial to the average player.

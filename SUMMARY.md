@@ -20,24 +20,22 @@
   * [Staking](xblade/what-is-xblade/staking.md)
   * [Oracle](xblade/what-is-xblade/oracle.md)
 
-## Characters
+## GAMEPLAY
 
-* [What are Characters?](characters/what-are-characters/README.md)
-  * [Character Levels](characters/what-are-characters/experience-and-levels.md)
+* [Elements](gameplay/elements.md)
+* [Characters](gameplay/what-are-characters/README.md)
+  * [Character Levels](gameplay/what-are-characters/experience-and-levels.md)
 
-## Weapons
+---
 
-* [What are Weapons?](weapons/what-are-weapons/README.md)
-  * [Weapon Attributes](weapons/what-are-weapons/weapon-stats.md)
-* [Forging](weapons/forging.md)
-* [Reforging](weapons/reforging.md)
-
-## Combat
-
-* [Fighting](combat/fighting/README.md)
-  * [Combat Formula](combat/fighting/combat-formula.md)
-  * [Calculating Power](combat/fighting/calculating-player-power.md)
-  * [Combat Rewards](combat/fighting/combat-rewards.md)
+* [Weapons](what-are-weapons/README.md)
+  * [Reforging](what-are-weapons/reforging.md)
+  * [Forging](what-are-weapons/forging.md)
+  * [Weapon Attributes](what-are-weapons/weapon-stats.md)
+* [Combat / Fighting](fighting/README.md)
+  * [Combat Formula](fighting/combat-formula.md)
+  * [Calculating Power](fighting/calculating-player-power.md)
+  * [Combat Rewards](fighting/combat-rewards.md)
 
 ## Marketplace <a id="market"></a>
 

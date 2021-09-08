@@ -1,4 +1,4 @@
-# What are Characters?
+# Characters
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/3b019ad181617871935f37f99d835907c5a0307a/.gitbook/assets/characters.png)
 
@@ -32,7 +32,7 @@ Character elements are used to determine advantage calculations and multipliers 
 
 More information on how character elements are used can be found here:
 
-{% page-ref page="../../combat/fighting/" %}
+{% page-ref page="../../fighting/" %}
 
 ## Stamina
 

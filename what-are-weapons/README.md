@@ -1,4 +1,4 @@
-# What are Weapons?
+# Weapons
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapons.png)
 
@@ -58,5 +58,5 @@ The element of the weapon is used for calculating the player roll for combat.
 
 More information on element matching can be found here:
 
-{% page-ref page="../../combat/fighting/" %}
+{% page-ref page="../fighting/" %}
 

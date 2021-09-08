@@ -48,5 +48,5 @@ $$
 
 More information on how character power is used to determine combat calculations and payouts can be found here:
 
-{% page-ref page="../../combat/fighting/" %}
+{% page-ref page="../../fighting/" %}
 

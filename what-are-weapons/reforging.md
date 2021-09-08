@@ -26,7 +26,7 @@ Bonus Power is a new stat gained when reforging that is used alongside weapon at
 
 More information on how Bonus Power is used can be found here:
 
-{% page-ref page="../combat/fighting/" %}
+{% page-ref page="../fighting/" %}
 
 ## Burn Value
 

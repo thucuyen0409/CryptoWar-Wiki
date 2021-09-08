@@ -26,5 +26,5 @@ It is also recommended to batch experience claims to minimize gas fees spent on 
 
 More information on the experience table, and calculations can be found here:
 
-{% page-ref page="../characters/what-are-characters/experience-and-levels.md" %}
+{% page-ref page="../gameplay/what-are-characters/experience-and-levels.md" %}
 
