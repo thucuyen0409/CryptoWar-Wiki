@@ -25,19 +25,16 @@
 * [Elements](gameplay/elements.md)
 * [Characters](gameplay/what-are-characters/README.md)
   * [Character Levels](gameplay/what-are-characters/experience-and-levels.md)
-
----
-
-* [Combat / Fighting](fighting/README.md)
-  * [Combat Formula](fighting/combat-formula.md)
-  * [Calculating Power](fighting/calculating-player-power.md)
-  * [Combat Rewards](fighting/combat-rewards.md)
-* [Weapons](what-are-weapons/README.md)
-  * [Reforging](what-are-weapons/reforging.md)
-  * [Forging](what-are-weapons/forging.md)
-  * [Weapon Attributes](what-are-weapons/weapon-stats.md)
-* [Rewards](rewards.md)
-* [Character Levels & required experience per level](character-levels-and-required-experience-per-level.md)
+* [Combat / Fighting](gameplay/fighting/README.md)
+  * [Combat Formula](gameplay/fighting/combat-formula.md)
+  * [Calculating Power](gameplay/fighting/calculating-player-power.md)
+  * [Combat Rewards](gameplay/fighting/combat-rewards.md)
+* [Weapons](gameplay/what-are-weapons/README.md)
+  * [Reforging](gameplay/what-are-weapons/reforging.md)
+  * [Forging](gameplay/what-are-weapons/forging.md)
+  * [Weapon Attributes](gameplay/what-are-weapons/weapon-stats.md)
+* [Rewards](gameplay/rewards.md)
+* [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
 
 ## Marketplace <a id="market"></a>
 
@@ -55,6 +52,7 @@
 * [DISCLAIMER AND  RIGHTS](information/disclaimer-and-rights.md)
 * [Help & FAQ](information/faq.md)
 * [Terms of Use](information/terms-of-use.md)
+* [Privacy Policy](information/privacy-policy.md)
 
 ## Links
 

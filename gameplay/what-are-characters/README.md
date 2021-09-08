@@ -32,7 +32,7 @@ Character elements are used to determine advantage calculations and multipliers 
 
 More information on how character elements are used can be found here:
 
-{% page-ref page="../../fighting/" %}
+{% page-ref page="../fighting/" %}
 
 ## Stamina
 
