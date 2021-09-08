@@ -1,10 +1,15 @@
 # Tokenomics
 
-* Play-to-earn: 20%
-* NFT Farming: 16%
-* IDO: 20% - 50% at TGE, then lock for 1 month
-* Dev: 10% - lock for 6 months
-* Airdrop: 2%
-* Marketing: 4%
-* Liquidity Pool: 28%
+xBlade serves as the native game currency for CryptoWar. Players leverage xBlade to acquire characters, forge and reforge weapons, and to buy and sell on the NFT Marketplace. The supply of xBlade is designated as follows:
+
+| Total Supply | 100 millions xBlade |
+| :--- | :--- |
+| Play-to-earn Incentives | 17% |
+| NFT Farming & Staking | 20% |
+| IDO | 20% - 50% at TGE, then lock for 1 month |
+| Development Fund | 17% |
+| Airdrop & Marketing | 8% |
+| Liquidity Pool | 18% |
+
+The development fund vests at a rate of 25% per quarter. The Investor fund vests at a rate of 25% per month.
 

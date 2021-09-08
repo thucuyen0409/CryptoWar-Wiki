@@ -1,8 +1,32 @@
+---
+description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN SKILL'
+---
+
 # CryptoWar
 
 This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
 
-CryptoWar is a Play to Earn NFT RPG forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. Players may participate in combat using their assets to earn xBlade tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
+#### A DEFI Game Platform and gaming experience On Binance Smart Chain
+
+CryptoWar is a Play to Earn NFT RPG forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. 
+
+Players may participate in combat using their assets to earn xBlade tokens. Assets are player-owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
+
+With other DeFi products, CryptoWar will truly be a dreamland for gamers and blockchain adopters.
+
+* NFT Yield Farming
+* NFT Marketplace
+* Gaming Metaverse
+
+#### CryptoWar Marketplace
+
+The peer-to-peer marketplace for BSC-based NFTs collectibles and in-game items
+
+### NFT farming
+
+* High APR xBlade farming
+* NFT booster farming \( Farming with higher APR with rare NFTs\)
+* Redeem NFT for real xBlade
 
 ## Vision
 
@@ -16,7 +40,7 @@ Our objective is to provide a fun and profitable experience for our players, and
 
 CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features.
 
-NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency. We will create rare and ultra rare NFTs that worth collecting and highly valueable. At different point 6 months , 12 months and 18 months, XBN.finance will buy back rare NFTs to display in our Hall of fames
+NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency. We will create rare and ultra-rare NFTs that worth collecting and highly valueable. At different point 6 months , 12 months and 18 months, XBN.finance will buy back rare NFTs to display in our Hall of fames
 
 Currently the following options are available for the player to earn:
 
