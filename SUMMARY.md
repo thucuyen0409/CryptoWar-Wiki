@@ -28,14 +28,15 @@
 
 ---
 
-* [Weapons](what-are-weapons/README.md)
-  * [Reforging](what-are-weapons/reforging.md)
-  * [Forging](what-are-weapons/forging.md)
-  * [Weapon Attributes](what-are-weapons/weapon-stats.md)
 * [Combat / Fighting](fighting/README.md)
   * [Combat Formula](fighting/combat-formula.md)
   * [Calculating Power](fighting/calculating-player-power.md)
   * [Combat Rewards](fighting/combat-rewards.md)
+* [Weapons](what-are-weapons/README.md)
+  * [Reforging](what-are-weapons/reforging.md)
+  * [Forging](what-are-weapons/forging.md)
+  * [Weapon Attributes](what-are-weapons/weapon-stats.md)
+* [Character Levels & required experience per level](character-levels-and-required-experience-per-level.md)
 
 ## Marketplace <a id="market"></a>
 
@@ -47,10 +48,6 @@
 * [Characters](strategies-and-guides/characters.md)
 * [Weapons](strategies-and-guides/weapons.md)
 * [Fights](strategies-and-guides/fights.md)
-
----
-
-* [Character Levels & required experience per level](character-levels-and-required-experience-per-level.md)
 
 ## Links
 
