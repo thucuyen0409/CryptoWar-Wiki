@@ -1,10 +1,10 @@
 ---
-description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN SKILL'
+description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade'
 ---
 
 # CryptoWar
 
-This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
+> This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
 
 #### A DEFI Game Platform and gaming experience On Binance Smart Chain
 
