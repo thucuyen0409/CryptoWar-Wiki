@@ -36,6 +36,7 @@
   * [Reforging](what-are-weapons/reforging.md)
   * [Forging](what-are-weapons/forging.md)
   * [Weapon Attributes](what-are-weapons/weapon-stats.md)
+* [Rewards](rewards.md)
 * [Character Levels & required experience per level](character-levels-and-required-experience-per-level.md)
 
 ## Marketplace <a id="market"></a>
