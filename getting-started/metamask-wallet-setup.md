@@ -39,7 +39,8 @@ The steps to add the BSC network are outlined below:
 
 1. Go to the Settings menu by clicking on the circle in the upper right hand side of the screen.
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/settings-metamask.png)
+![image](https://user-images.githubusercontent.com/90205972/133454958-f88249b2-6fc1-4a26-83bc-e54e8f14f81b.png)
+
 
 1. Click on "Networks" and "Add Network".
 
