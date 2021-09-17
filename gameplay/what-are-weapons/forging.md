@@ -1,6 +1,8 @@
 # Forging
 
-Players can increase their overall combat power by forging new weapons at the Blacksmith. The forging process utilizes RNG and the chances of minting each tier of weapons are as follows: 
+Players can increase their overall combat power by get new weapons at the xBlade shop. There are 2 types of secret box to get the chances of minting each tier of weapons are as follows: 
+
+**Common Box**
 
 • One-star, 44% chance 
 
@@ -11,6 +13,16 @@ Players can increase their overall combat power by forging new weapons at the Bl
 • Four-star, 5% chance 
 
 • Five-star, 1% chance 
+
+**Rare Box**
+
+• Two-star, 51% chance 
+
+• Three-star, 37% chance 
+
+• Four-star, 9% chance 
+
+• Five-star, 3% chance 
 
 One-star weapons are assigned an element and an element or power attribute. The attribute stat will be randomly minted between 4 and 200, with an average of 102 \(25.5% extra power at 102, with a minimum of 1% and maximum of 50%\). 
 
