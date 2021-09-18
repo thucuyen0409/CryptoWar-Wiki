@@ -2,13 +2,14 @@
 After finishing the “Metamask Wallet Setup” process and receiving a certain amount of BNB, you are now proceeding to next step of purchasing xBlade using BNB in your wallet
 
 To purchase xBlade, players need to use a decentralized exchange such as Pancakeswap to complete the transaction
+
 The following is a set of detailed instructions for players to purchase xBlade:
 1. Go to Pancakeswap 
 2. Click on “Connect” button on the top navigation bar 
 
 ![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-3edit.jpg?w=369&ssl=1)
 
-3.Click on “Metamask” to connect your wallet to Pancakeswap
+3. Click on “Metamask” to connect your wallet to Pancakeswap
 
 ![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-4edit.jpg?w=368&ssl=1)
 
