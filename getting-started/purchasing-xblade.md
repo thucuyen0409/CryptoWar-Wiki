@@ -1,5 +1,5 @@
 # Purchasing xBlade
-After finishing the “Metamask Wallet Setup” process and receiving a certain amount of BNB, you are now proceeding to next step of purchasing xBlade using BNB in your wallet
+After finishing the “Metamask Wallet Setup” process and receiving a certain amount of BNB, you proceed to next step of purchasing xBlade using BNB in your wallet
 
 To purchase xBlade, players need to use a decentralized exchange such as Pancakeswap to complete the transaction
 
@@ -23,4 +23,4 @@ The following is a set of detailed instructions for players to purchase xBlade:
 
 6. Check your values before clicking on “Enter an amount” button
 
-Once your transaction has been completed, you will see your xBlade balance in your wallet asset, which has been connected to your wallet beforehand. Now you can use your xBlade to build your character and forge your weapons. 
+Once your transaction has been completed, you will see your xBlade balance in your wallet asset, which has been connected to your wallet beforehand. Now you can use your xBlade to build your characters and forge your weapons. 
