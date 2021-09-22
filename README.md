@@ -8,7 +8,7 @@ description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade'
 
 #### A DEFI Game Platform and gaming experience On Binance Smart Chain
 
-CryptoWar is a Play to Earn NFT RPG forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. 
+CryptoWar is a Play to Earn NFT RPG forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them.
 
 Players may participate in combat using their assets to earn xBlade tokens. Assets are player-owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
 
@@ -17,6 +17,8 @@ With other DeFi products, CryptoWar will truly be a dreamland for gamers and blo
 * NFT Yield Farming
 * NFT Marketplace
 * Gaming Metaverse
+
+
 
 #### CryptoWar Marketplace
 
@@ -40,8 +42,7 @@ Both a gamer who play-to-earn as a full time job or a casual gamer who play 15 m
 
 ## Play to Earn
 
-CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features.
-Through experience in tokenomics and smart contract we optimize CryptoWar to avoid arbitrage and inflation to keep value of xBlade to grow sustainably.
+CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features. Through experience in tokenomics and smart contract we optimize CryptoWar to avoid arbitrage and inflation to keep value of xBlade to grow sustainably.
 
 NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency. We will create rare and ultra-rare NFTs that worth collecting and highly valueable. At different point 6 months , 12 months and 18 months, XBN.finance will buy back rare NFTs to display in our Hall of fames
 
