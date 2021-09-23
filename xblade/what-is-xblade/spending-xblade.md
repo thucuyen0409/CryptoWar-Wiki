@@ -1,8 +1,10 @@
 # Spending xBlade
 
+## Spending xBlade
+
 To create and increase assets in wallet, players need to use xBlade to complete the in-game transactions. The more frequent players make in-game transactions the higher the value of xBlade is.
 
-# How can players use xBlade?
+## How can players use xBlade?
 
 At the moment, xBlade can be used to recruit up to 4 main characters, minting weapons and reforging weapons as well.
 
@@ -13,3 +15,4 @@ With certain amount of xBlade in wallet, players are able to build their own cha
 ### Reforging weapons
 
 To burn weaker weapons and add stats to weapons, players need to proceed to “reforging” process, which consumes a great amount of xBlade to upgrade and boost the attack power of their weapons. Reforging weapons process ups the odds of winning in battles and makes it easier for players to sell their weapons on the marketplace
+

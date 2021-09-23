@@ -2,19 +2,19 @@
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapons.png)
 
-Weapons are one of the main NFTs the player can obtain, trade and earn money in the game
+Weapons are one of the main NFTs the player can obtain, trade, and earn money in the game
 
 Unlike characters, each account can hold an unlimited amount of weapons.
 
 The price to mint weapons is displayed on the "Forge" button in the Blacksmith tab.
 
-Each weapon comes with a random element and a random rarity denoted by the amount of stars it possesses. The rarity of the weapon determines the amount of attributes it has and the values that these attributes may roll.
+Each weapon comes with a random element and a random rarity denoted by the number of stars it possesses. The rarity of the weapon determines the number of attributes it has and the values that these attributes may roll.
 
-The usage of a weapon is not tied to a character, so one weapon may be used by all four of your characters. This is why it is important to have the team with same element to maximize the weapon.
+The usage of a weapon is not tied to a character, so one weapon may be used by all four of your characters. This is why it is important to have the team with the same element to maximize the weapon.
 
-Currently there is no way to change any of the values the weapon may roll.
+Currently, there is no way to change any of the values the weapon may roll.
 
-## CWW
+## CWW - CryptoWar Weapon
 
 CWW stands for CryptoWar Weapon, and are the weapon NFTs present on your wallet.
 
@@ -30,25 +30,19 @@ Set the decimal to "0" if prompted.
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapon-stamina.png) After fighting many times, your weapon will need to cool down.
 
-All Weapons have durability to limit how many times a weapon can be used to prevent people from passing a weapon around to take advantages.
+All Weapons have the durability to limit how many times a weapon can be used to prevent people from passing a weapon around to take advantage
 
 Durability recovers at a rate equal to character stamina, so a single account can use a single weapon for fighting with four characters.
 
 Durability has no effect on win rate, or the effectiveness of any weapon when used in combat.
 
-## Weapon Minting
+## Weapon Minting \(Forging\)
 
-Minting weapons serves as the primary xBlade sink of the game along with Reforging. All xBlade spent on minting weapons gets sent to the contract that handles fight payouts.
+Minting weapons serve as the primary xBlade sink of the game along with Reforging. All xBlade spent on minting weapons gets sent to the contract that handles fight payouts.
 
-The rarity of a weapon is randomly determined upon minting. Currently the rates of each rarity is as follows:
+There is currently no guarantee that a specific amount of rolls will yield a specific rarity of weapons. Some are born lucky but the more you work, the more chance of fortune you encounter. 
 
-* 1% chance for a 5 star weapon
-* 5% chance for a 4 star weapon
-* 15% chance for a 3 star weapon
-* 35% chance for a 2 star weapon
-* 44% chance for a 1 star weapon
-
-There is currently no guarantee that a specific amount of rolls will yield a specific rarity of weapon. Some are born lucky but the more you work, the more chance of fortune you encounter
+The rarity of a weapon is randomly determined upon minting. Currently, the rates of each rarity are as described at [forging](forging.md).
 
 ## Weapon Elements
 
