@@ -1,20 +1,19 @@
 # Infrastructure
 
-CryptoWar currently runs almost entirely on the blockchain, as opposed to centralized games running on their own servers.
-
-Having all gameplay done on-chain provides a level of trust not commonly found in traditional video games, and allows all users to verify the code that runs the game, as well as all interactions happening on the game's smart contracts.
+CryptoWar is a completely decentralized game which runs entirely on the blockchain devoid of centralized servers. Integrating blockchain in games provides assured security sense to users along with verification of on-chain code and empowers secure transactions inside the game with use of smart card or contact.
 
 ## CDN
 
-CryptoWar has a 99.99% uptime on their SLA with Cloudflare, and ensures smooth production and deployment of any features pushed to the website, as well as the usability of the website for all players.
+By achieving a 99.99% uptime of SLA, CryptoWar makes sure to improve our website performance with optimizing features and products for a better usage.
 
-DDOS attacks can disrupt marketplace and leaderboard data, but being on the blockchain ensures that assets are always safe and the game is always playable.
+Despite disruption data of marketplace and leaderboard from DDOS attacks, Blockchain-based gaming is guaranteed to enhance the security of storing digital assets for users and make it convenient for gamers to play with free mind.
+
 
 ## On-Chain vs Off-Chain
 
-Off-chain refers to traditional games where gameplay code is executed on the developer's own servers. Such games are liable to DDOS attacks since all the game code is running on one central location.
+Off-chain refers to traditional games in which gameplay code is executed on the developer's own servers. Such games are liable to DDOS attacks since all the game code is running on one central location.
 
-CryptoWar, being on-chain, has a distinct advantage in that the website isn't necessary to play the game. Assuming the player knows how to interact with the blockchain, they can play entirely on the smart contracts by calling the appropriate functions and supplying the necessary data on the BscScan contract pages.
+Blockchain-based gaming like CryptoWar has a distinct advantage. Players don’t necessarily have to play game through the website. Assuming player knows how to interact with blockchain, they will be able to make the best use of special features on smart contracts such as calling the appropriate functions and supplying the necessary data on the BscScan contract pages.
 
-Another advantage to being on-chain is that transactions the users take can be tracked and verified by checking TxIDs on BscScan. Assets can also be tracked and traced as they transfer from one user to another, all the way back to when it was first minted.
+Another advantage of being on-chain is that each transaction performed by the users can be tracked and verified by checking TxIDs on BscScan. Assets can also be tracked and traced as they transfer from one user to another, all the way back to when it was first minted.
 
