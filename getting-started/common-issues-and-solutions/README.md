@@ -1,11 +1,5 @@
 # Common Issues and Solutions
 
-## Lag / Slow Loading
-
-Due to the applications of 3D rendering engine, CrytoWar NFTs might cause delays or slowdowns while playing game. To solve this problem, simply turn off the 3D graphics on the upper right side of the screen to reduce the load on your end. 
-
-![image](https://user-images.githubusercontent.com/90205972/134613683-30f8ce6d-ff2b-4917-8e57-85c17ddad517.png)
-
 
 ## 0.285 Gas Fee
 
