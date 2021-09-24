@@ -1,24 +1,23 @@
 # Multiple Accounts
 
-Having multiple accounts is allowed in CryptoWar, and is balanced through the use of the stamina time gate.
+Due to the use of robust time frame, CryptoWar allows players to have multiple accounts with 4 characters for each to access the game. However, each of these accounts is restricted to have their own weapon as the 24 hour trade lock prevents trading the same weapon between accounts. Besides, gas fees are compulsory being maintained in each account to pay for transaction processing fees. The more accounts each player has the more gas fees he or she has to pay
 
-Each account of four characters is required to have their own weapon, as a 24 hour trade lock prevents the passing of one weapon to multiple accounts.
+You can create multiple accounts in your MetaMask wallet as follows.
 
-Each account also needs their own gas, and the more accounts you have the higher gas upkeep is required.
+Click on the favicon on the upper right side of your screen and select "Create Account".
 
-You may use a single MetaMask to house multiple accounts.
+![image](https://user-images.githubusercontent.com/90205972/134547215-f78d7ba9-43ed-4bd9-b677-341a25132ed6.png)
 
-To create a new account, simply click on the circle icon on the upper right side of your screen and select "Create Account".
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/create-account.png)
+Click on “MetaMask icon” in your extension tab and tab on “Not connected” in case your second account has not been recognized by the system.
 
-Sometimes, CryptoWar may not recognize a second account on the same MetaMask. To resolve this, click on the MetaMask icon in your browser's extensions tab and click on the "Not connected" text.
-
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/not-connected.png)
+![image](https://user-images.githubusercontent.com/90205972/134549192-61a770ed-b851-48ce-aedc-09148e153c7f.png)
 
 Click on the "Connect" button when prompted.
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connect-button.png)
+![iamge](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connect-button.png)
 
-Once you are finished, CryptoWar should now detect your new account. If your new account is not yet reflected on the website, simply refresh CryptoWar.
+
+
+Once you finished this step, you can see your new account connected to our website. In case your new account has not been reflected on our page, simply refresh it.
 
