@@ -2,29 +2,24 @@
 
 ## Lag / Slow Loading
 
-CryptoWar NFTs are 3D assets that are rendered on screen. If this causes any lag or slowdowns you may disable 3D graphics by clicking the gear icon on the upper right side of the screen and turning 3D graphics off there.
+Due to the applications of 3D rendering engine, CrytoWar NFTs might cause delays or slowdowns while playing game. To solve this problem, simply turn off the 3D graphics on the upper right side of the screen to reduce the load on your end. 
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/3d-graphics.png)
+![image](https://user-images.githubusercontent.com/90205972/134613683-30f8ce6d-ff2b-4917-8e57-85c17ddad517.png)
+
 
 ## 0.285 Gas Fee
 
-Whenever the user performs a transaction that isn't allowed by the contract, such as adding a 5th character, or trading away a trade locked weapon, they will get asked for a gas fee of 0.285 BNB.
-
-Do not accept these transactions. Carefully evaluate what it is you're doing and confirm that your transaction is legal.
+Some transactions are not allowed in the contract such as adding a 5th character or trading a weapon with a trading blockade. If you do this by accident, you will have to pay 0.285BNB for this. So please illustrate the concept of each transaction and ensure that it is valid and enforceable before proceed to further steps.
 
 ## EVM Error
 
-Users have reported getting EVM errors mostly when performing fights before the hourly reset is done.
-
-The enemy list refreshes every hour at UTC +0, and during the refresh the old enemy list disappears. If a fight transaction is in the middle of being calculated during this, the reference to the old enemy is lost and the transaction fails.
-
-To avoid this, you can stop fighting before the hour is done to avoid any failed fight transactions and wait for the refresh to finish.
+You might receive EVM errors if you start your fight before the hourly reset. Every hour the old enemy list disappears and the new one is refreshed according to UTC time zone. For that reason, you should not execute your transaction in the middle of this process; otherwise your transaction will fail as your reference goes directly to the old enemy list. To avoid this, we suggest you to stop fighting one hour before and wait until the refresh is complete to avoid failed transaction. 
 
 ## Getting Started Page Stuck
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/welcome-page.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/welcome-page.png)
 
-To get past the initial welcome page, a minimum amount of xBlade is required to be present in your wallet indicated by the cost to recruit your first character.
+You are required to hold a certain amount of xBlade in your wallet to get access to our welcome page and recruit your first character. 
+Please proceed to the following page for further information on how to purchase xBlade 
 
-Please proceed to the following page to learn how to purchase xBlade:
 
