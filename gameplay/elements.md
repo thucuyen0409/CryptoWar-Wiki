@@ -1,6 +1,6 @@
 # Elements
 
-There are four different elements present in the game: 
+Gamers in CryptoWar are empowered with weapon elements such as:
 
 • Fire
 
@@ -10,7 +10,7 @@ There are four different elements present in the game:
 
 • Water
 
-All characters, weapons, weapon attributes, and enemies are assigned an element. Elements increase or decrease the chances of success when battling. Each element trumps and is trumped by another element, as follows: 
+Elements are an important factor as the odd of winning or losing in each battle mainly depends on their vantage usage by gamers. Each element trumps and is trumped by another element, as follows: 
 
 • Fire o Trumps Earth o Trumped by Water
 
