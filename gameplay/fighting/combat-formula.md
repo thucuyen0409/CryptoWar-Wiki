@@ -2,46 +2,48 @@
 
 ## Combat Variables
 
-Combat in CryptoWar utilizes a set of variables calculated from the NFT data the player owns. These variables are outlined as follows.
+CryptoWar combat utilizes a number of variables calculated from the player’s NFT data which are outlined as follows:
 
-* **Unaligned Character Power** is calculated using the character's current level, and the selected weapon without considering any elemental matching.
-* **Aligned Character Power** calculated the same as above, except it takes into account if any attributes match the character's element, or if the attribute is PWR.
-* **Trait Bonus** is calculated by checking the element of the character and evaluating if it is strong, neutral, or weak against the chosen enemy's element.
-* **Enemy Power** is the listed power value of the chosen enemy, and is used in determining the enemy's combat roll and the rewards payout.
+* **Unaligned Character Power** is calibrated by using the existing level of the character and the chosen weapon excluding elemental matching.
+* **Aligned Character Power** employs the same formula as mentioned above with the exception that it takes heed of the compatibility between the character’s element and its attributes, or if that attribute is PWR   
+* **Trait Bonus** is determined on the basis of comparing character element to its chosen enemy element so that strong, neutral or weak attribute can be known.
+* **Enemy Power** is known as power value of the selected enemy, which is used in determining the combat roll and the prize payout.
 
-Using the above information, we can draw several conclusions for CryptoWar combat that are written out below.
+Numerous presumptions about CryptoWar combat can be brought out for further discussion based on the preceding information
 
 ## Elemental Matching
 
-Choosing an enemy that you have an elemental advantage against, comparing a weapon's element to your character, and comparing a weapon's attributes to your character are the three considerations in regards to elemental matching.
+There marks the three profound significances to elemental matching including choosing an enemy with lower-level element, comparing a weapon’s element to your character and comparing a weapon’s attributes to that of yours 
 
-Based on the formulas for combat, we can make several key definitive statements.
+We can put out various paramount statements based on the combat formulas.
 
-* Matching elements is important for win rate and experience gain calculations.
-* Matching elements is NOT important in calculating enemy power range.
-* Matching elements is NOT important in calculating Xweapon payout.
+* Matching elements are important for chances of winning and calculations of gamers’ experience enrichment. 
+* Matching elements are NOT critical for calculating enemy power range.
+* Matching elements are NOT essential for calculating Xweapon payout.
 
 ## Formulas
 
-Combat starts by determining the **Unaligned Character Power** and using that to determine the range of enemies to choose from.
+Combat begins by determining the **Unaligned Character Power**, which is then employed to ponder your enemy options. 
 
-The formula to get that and other variables can be found here:
+Further information on the formula and other variables are given below:
 
 {% page-ref page="calculating-player-power.md" %}
 
-Once the **Unaligned Character Power** has been determined the game takes that value and applies a ±10% to determine the range of possible enemy power values.
+After determining the **Unaligned Character Power** the game automatically multiplies that figure by 10% to evaluate the possible strengths of your enemy.  
 
 {% hint style="info" %}
-This ±10% means you will never receive an enemy that is impossible to beat, though you might be hard pressed to win against an enemy if you don't have the advantage of elemental matching on your side.
+The ±10% implies that you might encounter difficulties in winning the battle without having elemental matching at your vantage so that you will never face an enemy that is impossible to defeat.
 {% endhint %}
 
-The player then proceeds to choose an enemy to fight and confirms the transaction. The contract calculates for the player's **Aligned Character Power** and **Trait Bonus** and uses those values to determine the player's combat roll and the experience gained on victory.
+After that, the player moves on to the next step of selecting enemy and verifying the transaction. Player’s **Aligned Character Power** and **Trait Bonus** is calculated by the contract, which is later used for measuring player’s combat roll and experience gained on victory.
 
 The player's roll is calculated by multiplying **Aligned Character Power** with **Trait Bonus** and applying a ±10%.
 
-The enemy's roll is calculated by taking their listed power value and applying a ±10%.
+The enemy's roll is calculated by multiplying listed power value by ±10%.
 
-If the player's roll is equal to or greater than the enemy's roll, they win the fight. Experience and xBlade payouts can then be calculated. The formulas used to get those can be found here:
+The player wins the fight if his or her roll is equal to or higher than the enemy’s roll. Then Experience and xBlade payouts can then be calculated. 
+
+An overview of the formulas for calculation results can be found here:
 
 {% page-ref page="combat-rewards.md" %}
 
