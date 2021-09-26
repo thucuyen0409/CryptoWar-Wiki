@@ -1,18 +1,19 @@
 # Combat / Fighting
 
-Combat serves as the primary source of gaining Xblades through the use of your character and weapon NFTs. Fighting consists of the player selecting a character and a weapon, and selecting an enemy from a randomized set based on your calculated power.
+xBlades can be acquired at the first hand by combat and its associated services from using the character and NFT weapons. Fighting entails selecting a character and a weapon, as well as picking an enemy from a randomized list based on the strength of their characters
 
 The overview of the combat formulas can be found here:
 
 {% page-ref page="combat-formula.md" %}
 
-After the player has selected their enemy, the contract calculates on-chain the randomized player and enemy rolls and determines a victory if the player's roll is equal to or higher than the enemy's roll.
+After players choose their enemy, an on-chain smart contract performs quick calculations to announce the ultimate winner depending on the highest roll. 
 
-A victorious fight results in a experience payout to your character, and a Xblades payout to your in-game wallet.
+The victors of each battle are showered with XP and xBlade in players’ in-game wallet.
 
-A defeat results in a loss of the gas fees paid.
+Players must pay a certain amount of gas fees if their character is defeated by their enemies
 
-Calculations to determine the experience and Xweapon payouts can be found here:
+Below is an overview of formula for calculating experience and Xweapon payouts. 
+
 
 {% page-ref page="combat-rewards.md" %}
 
