@@ -13,5 +13,5 @@ xBlade serves as the native game currency for CryptoWar. Players leverage xBlade
 | xBlade-BUSD Initial Liquidity Pool | 1% |
 | xBlade-XBN Initial Liquidity Pool | 8% |
 
-The development fund vests at a rate of 25% per quarter. 
+The development fund vests at a rate of 5% per month. 
 
