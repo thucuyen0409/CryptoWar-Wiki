@@ -9,7 +9,7 @@ xBlade serves as the native game currency for CryptoWar. Players leverage xBlade
 | Development Fund | 17% |
 | Airdrop & Marketing | 8% |
 | Fair Distribution for Liquidity Pool | 31% - selling in 96 rounds, 8 days|
-| xBlade-BNB Initial Liquidity Pool (LatterSwap) | 1% |
+| xBlade-BNB Initial Liquidity Pool (LatteSwap) | 1% |
 | xBlade-BUSD Initial Liquidity Pool (PancakeSwap) | 1% |
 | xBlade-XBN Initial Liquidity Pool (PancakeSwap) | 8% |
 
