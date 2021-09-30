@@ -2,17 +2,17 @@
 
 ## Stamina per Fight
 
-Players may decide how much stamina they wish to spend on a single fight, and can spend up to 200 stamina in one go.
+The total amount of stamina consumed after each fight is entirely depend on players’ determination, which can be exerted up to 200 per fight.  
 
-Gas offset is paid once per transaction, so if the user decides to spend 200 stamina they would receive 5x the evaluated baseline rewards, but gas offset only once.
+Gas offset is only charged once per transaction. Accordingly, players are likely to be awarded average reward baseline which can be worth 5 times as much as their expectation if they deem to use up 200 stamina, but only once-off for gas offset.
 
-The expected dollar value gains are equivalent for all tiers of stamina spending when accounting for gas, however earnings across an average period of time may differ if the player loses multiple high stamina fights.
+The fees imposed on stamina consumption are on the par with the estimated increase in dollar value while valuating the gas fees. Having said that profits reaped per fight might be unsteady after an average period of time if players lose several high stamina fights.
 
-Experience gained in fights are also multiplied proportionally depending on whatever stamina value the player chooses to spend.
+Combat experience is also multiplied equivalently based on the value of stamina players pick out. 
 
-## Xweapon Payout
+## xWeapon Payout
 
-The formula to determine Xweapon payout is as follows:
+Below is the formula to calibrate xWeapon payout:
 
 $$
 payout = gasOffset + (baseline * √(enemyPower/1000))
@@ -20,15 +20,15 @@ $$
 
 Gas Offset is shown in the earnings calculator as follows:
 
-![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-offset.png)
+![image](https://user-images.githubusercontent.com/90205972/135366545-5f55137c-a95d-4d65-b41f-abf584c59af2.png)
 
 Baseline is also shown in the earnings calculator as follows:
 
-![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-baseline.png)
+![image](https://user-images.githubusercontent.com/90205972/135366554-bd0fc729-58ce-4770-b69e-ffacb7c676b1.png)
 
-These numbers are dynamically adjusted by the Oracle, taking into account Xweapon dollar value.
+These numbers are appropriately modified by the Oracle which covers the currency value of xWeapon
 
 {% hint style="info" %}
-Note that the "power" variable indicated in the formula is the listed power value of whatever enemy the player chooses to fight.
+Please note that the “power” variable manifested in the above formula refers to the listed power value of whichever enemy players prefer to engage in the battles. 
 {% endhint %}
 
