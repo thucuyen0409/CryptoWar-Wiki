@@ -46,4 +46,4 @@ The following are steps to get the current rate of the oracle:
 
 <li>Divide 1 by that copied value. The result is the current dollar value of xBlade according to the oracle.</li>
 
-When the calculated amount is different from the actual dollar value of SKILL, buffs to payouts and mint costs are expected if the Oracle is above the current value of SKILL, and vice versa, nerfs if below.
+When the calculated amount is different from the actual dollar value of xBlade, buffs to payouts and mint costs are expected if the Oracle is above the current value of xBlade, and vice versa, nerfs if below.
