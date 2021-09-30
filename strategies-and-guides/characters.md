@@ -2,29 +2,28 @@
 
 ## Your First Character/s
 
-To start the money making journey, you may mint your first hero and receive a free 1-star weapon to go with it. You can mint four characters but it is not likely they are the same element and since you want your heros to be able to use a strong good weapon, one of the best option is purchasing them on market place or you can keep minting, selling other hero that is not associated with the element you need \( for example you have a Fire sword and want to have 4 Fire hero \)
+Players can proceed with their profit-oriented strategies by minting their first hero and acquiring a 1-star weapon compatible with its hero at no cost. It is acceptable for players to mint four characters at the same time. Be that as it may, they are far-fetched to possess similar elements. There are numerous tactics to fetch a powerful weapon for your heroes such as purchasing them on market place, keeping minting or selling those that don’t closely correspond to your desirable element. \(For example: a Fire sword should be a perfect match 4 Fire heroes\) 
 
-A better option assuming you have sufficient capital is purchasing leveled characters as experience is a resource that costs time to obtain.
+On the assumption that players have enough money for purchasing leveled characters as they can depend on experience of playing which is time consuming. 
 
 {% hint style="info" %}
-Purchasing characters can be a good way to get a head start, but don't disregard the weapon.
+Purchasing characters can also be a good way to get an auspicious bullish opening but do not overlook the weapon
 
-Suggestions on weapon purchases can be found in their respective section in the Strategies and Guides group.
+Further information about weapon purchasing process can be obtained in the Strategies and Guides group.
 {% endhint %}
 
 ## Mono Element Composition
 
-If you obtain a good 4-star or 5-star sword of any particular element, it might be beneficial to try and obtain four characters of the same element so they can all share and use that one good sword. Minting a character is the cheapest way to get one, however the current state of the game incentivizes a mono-element team as having four characters of the same element can allow you to leverage just a single amazing sword.
+In case players possess an excellent 4-star or 5-star sword of whichever element, it is recommendable to gain four characters of the same element who can share and employ similar sword. Minting a character turns out to be the lowest-cost method to acquire your wanted character. However, the current state of the game encourages players to form a mono-element team which empowers them to make the best use of just a single sword 
 
 ## When to claim experience ?
 
-Level milestones are the most important aspect in managing character experience.
+Level milestones are considered to be an essential pillar of maintaining character experience.
 
-Be sure to take note of when your characters are about to hit the next milestone, and if a character has crossed that threshold refrain from fighting with them before claiming their experience.
+Please keep an eye on time when your characters are on the verge to reach the next milestone. In case one of them has crossed the threshold, remember to restrain from engaging in fighting and claiming the much sought after experience.
 
-It is also recommended to batch experience claims to minimize gas fees spent on claiming, as each transaction incurs a fee.
-
-More information on the experience table, and calculations can be found here:
+Due to the fact that each transaction costs a certain amount of fees, it is suggested that players should claim experience to minimize the gas fees 
+More information on the experience table and calculation formula can be found here:
 
 {% page-ref page="../gameplay/what-are-characters/experience-and-levels.md" %}
 
