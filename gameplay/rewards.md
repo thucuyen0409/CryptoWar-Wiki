@@ -1,8 +1,8 @@
 # Rewards
 
-The player receives two types of rewards when they successfully defeat an opponent, xBlade and character experience. The xBlade reward is dependent on the power of the enemy defeated. At the time of the writing of this wiki, the formula is 0.111627 \(awarded as a gas offset\) + .014651 per 1000 power of the enemy defeated. Experience earned is assigned to the character that won the battle.
+As soon as players vanquish their enemy successfully, they will be awarded xBlade and character experience. While character experience gained from the enemy is fixed and awarded only to the characters that defeated them, the xBlade is contingent on the power of the enemy. For the time being, the formula is 0.111627 \(awarded as a gas offset\) + .014651 per 1000 power of the enemy defeated.
 
- The xBlade and experience earned are stored until the player initiates a transaction to move the xBlade to their wallet and to apply the experience to their characters. This feature has been added to reduce the amount of gas the player requires to play the game. 
+The xBlade and experience acquired are stockpiled in preparation for players’ in-game transactions in order that the xBlade will be transferred to player’s wallet and character experience will be added to players’ character. This feature has been optimized to make cutbacks in the amount of gas required to join in the game.
 
-Note: when forging, the game will draw the xBlade from the player’s storage xBlade before drawing xBlade from their wallet.
+Please note that the game will withdraw the xBlade from players’ storage prior to drawing xBlade from their wallet while forging. 
 
