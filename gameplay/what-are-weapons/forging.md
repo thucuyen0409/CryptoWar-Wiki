@@ -1,6 +1,6 @@
 # Forging
 
-Players can increase their overall combat power by get new weapons at the xBlade shop. There are 2 types of secret box to get the chances of minting each tier of weapons are as follows:
+To reinforce combat power, players are suggested to purchase new weapons from xBlade shop. Below is the concrete detail about secret boxes which are harnessed to mint each tier of weapons. 
 
 **Common Box**
 
@@ -24,13 +24,14 @@ Players can increase their overall combat power by get new weapons at the xBlade
 
 • Five-star, 3% chance
 
-One-star weapons are assigned an element and an element or power attribute. The attribute stat will be randomly minted between 4 and 200, with an average of 102 \(25.5% extra power at 102, with a minimum of 1% and maximum of 50%\).
+The following are guidelines for explicating physical property of weapons based on their level rank.
 
-Two-star weapons are assigned an element and an element or power attribute. The attribute stat will be randomly minted between 180 and 300, with an average of 240 \(60% extra power at 240, with a minimum of 45% and maximum of 75%\).
+One-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 4 to 200 with an average of 102, which comprises of  25.5% of additional power at the level of 102, with a minimum of 1% and maximum of 50%.
 
-Three-star weapons are assigned an element and an element or power attribute. The attribute stat will be randomly minted between 280 and 400, with an average of 340 \(85% extra power at 340, with a minimum of 70% and maximum of 100%\).
+Two-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 180 to 300 with an average of 240, which comprises of 60% of additional power at the level of 240, with a minimum of 45% and maximum of 75%.
 
-Four-star weapons are assigned an element and two element or power attributes. The attribute stats will be randomly minted between 200 and 400, with an average of 300 each, or in other words 600 total \(150% extra power at 600, with a minimum of 100% and maximum of 200%\).
+Three-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 280 to 400 with an average of 340, which comprises of 85% of additional power at the level of 340, with a minimum of 70% and maximum of 100%.
 
-Five-star weapons are assigned an element and three element or power attributes. The attribute stats will be randomly minted between 268 and 400, with an average of 334 each, or in other words 1002 total \(250.5% extra power at 1002, with a minimum of 201% and maximum of 300%\).
+Four-star weapons are assigned an element and two elements or power attribute. The attribute stat will be fabricated at random from 200 to 400 with an average of 300 per each stat and 600 in total, which comprises of 150% of additional power at the level of 600, with a minimum of 100% and maximum of 200%.
 
+Five-star weapons are assigned an element and three elements or power attribute. The attribute stat will be fabricated at random from 268 to 400 with an average of 334 per each stat and 1002 in total, which comprises of 250.5% of additional power at the level of 1002, with a minimum of 201% and maximum of 300%.
