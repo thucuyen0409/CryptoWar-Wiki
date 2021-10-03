@@ -2,15 +2,13 @@
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge.png)
 
-Reforging weapons is the process of spending xBlade tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
-
-Alongside weapon forging, reforging serves as one of the two xBlade sinks in the game. Reforging also gives value to the massive amounts of one to three-star weapons that a player may receive when trying to forge for four or five stars.
+Reforging weapons refers to the action of expanding xBlade tokens to burn a weapon into another, which eventually results in the disappearance of burnt weapon and an increase in the bonus power of target weapon. Along with Forging, reforging weapon is supposed to be one of the game’s primary xBlade sinks. When endeavoring to forge four or five-star weapons, players often acquire one or three-star weapons, which are fully employed in the reforging process to add a massive amounts of value to one of players’ preferred weapons. 
 
 ## LB, 4B, and 5B
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-lb-4b-5b.png)
 
-A reforged weapon displays new information when hovered over. This is the LB, 4B, 5B, and Bonus Power.
+A forged weapon contains new information of its attribute about what it is forged into which is symbolized as LB, 4B and 5B
 
 LB stands for _Low Star Burn_ and is the total value of one to three-star weapons burnt.
 
@@ -22,7 +20,7 @@ LB stands for _Low Star Burn_ and is the total value of one to three-star weapon
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-bonus-power.png)
 
-Bonus Power is a new stat gained when reforging that is used alongside weapon attributes to determine player power for combat rolls.
+Bonus Power is a new stat acquired after reforging a weapon, which is utilized in conjunction with weapon attributes to calibrate player power in combat rolls.
 
 More information on how Bonus Power is used can be found here:
 
@@ -30,11 +28,9 @@ More information on how Bonus Power is used can be found here:
 
 ## Burn Value
 
-The rarity of the burnt weapon determines which burn pool the value goes to, and for the case of LB determines the amount of burn points to add.
+The burnt weapon rarity decides which of the following burn pool the value should go for. The maximum threshold limits for LB, 4B and 5B is not contingent on one another. The higher weapon rarity is the more Bonus Power players yield. 
 
-LB, 4B, and 5B have a maximum limit independent of one another, and each point increase in each respective pool contributes to the weapon's total Bonus Power.
-
-Refer to the following table for maximum amount of burn points and the bonus power per point received.
+The maximum amount of burn points and the bonus power per point acquired are shown in the following table:
 
 | Burnt Weapon Rarity | Pool | Maximum Pool Value | Bonus Power Per Point | Maximum Bonus Power |
 | :--- | :--- | :--- | :--- | :--- |
@@ -46,9 +42,9 @@ This means that a fully reforged weapon can have a maximum of 2850 bonus power.
 
 ## Burn Conditions
 
-Depending on the rarity of the weapon and the current value of the pool, the amount increased per burn may change.
+The amount increased per burn can be changeable dependent on weapon rarity and the current value of the pool.
 
-Refer to the following to determine how much the pool will increase when the respective weapon rarity is burnt.
+Below is the statistics on how much the pool increases after burning individual weapon rarity.
 
 * 1-star weapon burns increases LB by one
 * 2-star weapon burns increases LB by two.
@@ -58,9 +54,9 @@ Refer to the following to determine how much the pool will increase when the res
 
 ## Carryover Value
 
-When using an already reforged weapon as a burn weapon, half of the burn weapon's LB, 4B, and 5B gets carried over to the new weapon.
+Half of the burnt weapon’s LB, 4B and 5B will be transferred to new weapon when players employ reforged weapon as a burnt weapon.
 
-In the case of decimals due to dividing an odd numbered LB, 4B, and 5B, the number is rounded down to zero.
+The number is rounded to zero decimal places in case of dividing an odd numbered LB, 4B and 5B.
 
 {% hint style="info" %}
 A weapon with 50 LB will transfer 25 LB when used as a burn weapon.
