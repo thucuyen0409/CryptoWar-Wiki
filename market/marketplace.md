@@ -1,82 +1,57 @@
 # Marketplace
 
-CryptoWar assets such as characters and weapons are user owned ERC-721 NFTs can be freely traded with other players.
-
-To remove the possibility for scams when conducting trades through the use of the NFT contracts, CryptoWar has a proprietary marketplace where users may list and purchase their NFTs.
+When engaging in the game, players possess their own assets for example characters & weapons which are stockpiled in the game and minted in ERC-721 NFTs. These assets can be freely traded with other players. All in-game transactions are conducted on an exclusive marketplace owned by CryptoWar in which players are granted permission to enlist and purchase their NFTs for eliminating massive frauds while doing trades through the use of NFT contracts.  
 
 ## Approving xBlade Spending
 
-The first notification the player gets when purchasing NFTs on the marketplace is an approval transaction similar to the one pictured below:
+After purchasing NFTs on the marketplace, the system automatically dispatch a notification of a transaction approval form to the players, as illustrated in the following photo: 
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/allow-skill-spending.png)
+![image](https://user-images.githubusercontent.com/90205972/136230009-6c0c5449-ad0e-46fe-a93c-7c324ebe70c6.png)
 
-CryptoWar does not have free authorization to spend xBlade directly from your MetaMask wallet, and therefore must ask for authorization each time the player wants to make a marketplace transaction.
-
-This transaction is different from the actual purchase confirmation. Players will receive a new notification for the market purchase after the approval transaction has completed.
+It is due to the fact that CryptoWar is not given authorization to spend xBlade directly from players’ MetaMask wallet. Consequently, players are obligated to seek authorization whenever they need to execute a marketplace transaction, which appears to be completely different from the actual purchase confirmation. After the completion of transaction approval, players will receive an official notification of purchasing process on the market. 
 
 {% hint style="info" %}
-Approving xBlade does NOT mean you were able to purchase an item on the market.
-
-You will receive a gas fee error if you attempt to purchase an item that has already been purchased by someone else.
+It is advisable to have a strategic purchase planning for each item on the market; otherwise players will receive a gas fee error in case they try out for items purchased by someone else.
 {% endhint %}
 
 ## Tax
 
-Listing an NFT only requires the gas fee necessary to conduct the transaction to transfer the NFT to the marketplace contract.
+To list an NFT, a certain amount of gas fee will be requested to execute in-game transactions for the purpose of transferring NFT to the marketplace contract.
 
-Purchasing an NFT from the marketplace incurs a 10% tax, paid for by the buyer.
-
-The listed price of NFTs on the marketplace is tax-inclusive, and the 10% tax is redirected into the contract responsible for xBlade payouts through combat.
+The tax charged on purchasing NFT on the marketplace is at the rate of 10% which is paid by the buyers. For each purchasing transaction on the marketplace, tax is included in the listed price of NFTs and the 10% tax is redirected to the contract in so as to pay for xBlade through combat.
 
 ## Trade Lock
 
-Characters that are listed and bought via the marketplace, or traded via smart contracts will incur a 24 hour trade lock before the item can be listed or traded again.
+Characters listed and bought via the marketplace or traded via smart contracts will be locked within 24 hours before the item is enabled to be listed or traded again.
 
 {% hint style="info" %}
-Attempting to list or trade a locked item incurs a 0.285 gas fee error. Please do not attempt to bypass the 24 hour trade lock.
+0.285 gas fee errors will be charged on making constant effort to list or trade a locked item. Please do not perform any transaction during this time.
 {% endhint %}
 
 ## Browse NFTs
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/browse-nfts.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/browse-nfts.png)
 
-The Browse NFTs tab lets you view the currently listed characters and weapons.
-
-Filters are available for both characters and weapons to narrow down the available options.
-
-Due to the current lack of pagination, only the first 60 pulled results will be displayed. If you wish to make a direct purchase of someone's listed NFT on the marketplace, you must obtain the asset ID and use the Search NFTs function detailed below.
+The Browse NFTs tab empowers players to overlook existing characters and weapons. Click on “Filter button” in case players want to short-list available options for both characters and weapons. Due to the lack of pagination, only the first 60 results will be displayed in the research results. Players are required to obtain the asset ID and paste it into Search NFTs as illustrated in the following picture in case they seek to make a direct purchase of someone’s listed NFT on the marketplace.
 
 ## Search NFTs
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/search-nfts.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/search-nfts.png)
 
-If you have access to the asset ID of the NFT you are purchasing, or you have access to the wallet address of the seller, you may view them directly under the Search NFTs tab.
+If players are able to access to the asset ID of the NFT purchased or to the sellers’ wallet, they may overlook them directly under the Search NFTs tab.
 
-Simply input an asset ID on the textbox and select either "Search Character ID" or "Search Weapon ID" to bring up the NFT in question.
+After that, simply paste asset ID on the textbox and select either "Search Character ID" or "Search Weapon ID" to detect players’ wanted NFT.
 
-If you have the wallet address of the seller, you may also input that on the textbox and select "Characters by Seller" or "Weapons by Seller" to bring up all of their listed characters and weapons respectively.
+In case players have the seller’s wallet address, they may possibly insert it into the textbox and choose “Characters by Seller” or “Weapons by Seller” to see over all of their existing characters and weapons. What is more, players can use this tab to keep track of their current characters and weapons, along with their tax-inclusive price. 
 
-You may also use this tab to view your currently listed characters and weapons, complete with their tax-inclusive price.
-
-Selecting a listed NFT lets you de-list the item or adjust it's listed price. Note that the listed price adjustment makes you input a new price that will then get a 10% tax on top of it before it gets re-listed on the marketplace.
+Players are empowered to de-list the item or adjust its’ listed price when selecting a listed NFT. Nevertheless, it is worth noting that players should place a new price into the textbox after the process of adjusting price, which will then be taxed at the rate of 10% before having the item re-listed on the marketplace.
 
 {% hint style="info" %}
-De-listing an item still incurs the 24 hour trade lock, so you won't immediately be able to trade or re-list the item after pulling it out of the marketplace.
+It is important to keep in mind that delisting an item leads to 24-hour trading lock. For that reason, players are advised not to engage in any trades or re-list the item.
 {% endhint %}
 
 ## List NFTs
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/list-nfts.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/list-nfts.png)
 
-The List NFTs tab lets you list your own NFTs on the marketplace. You can view the characters and weapons on your wallet and list them at a price of your choosing.
-
-Please note that the price you input upon listing is the amount of xBlade you receive. The actual listed price on the marketplace will have a 10% tax added on top of it.
-
-Listing involves transferring the NFT from your wallet to the marketplace, and as such incurs a gas fee similar to trading. You will also be prompted to allow CryptoWar approval to use your CBC or CBW.
-
-{% hint style="info" %}
-Listing a character frees up a space in your wallet, and allows you to mint a new one.
-
-Please note that you cannot de-list a character if your current wallet is already 4/4 characters.
-{% endhint %}
-
+Players can list their own NFTs on the marketplace using the List NFTs tab. The price they are trying to earn from selling their NFTs will have a 10% tax added on top of it to become the listed price. After their listings, their listed NFTs will be transferred to the marketplace and their slots in players’ wallet will be freed up for minting new NFTs. De-listing will return the NFTs to their slots in players’ wallet unless they are full (in which case the de-listing will be unavailable). Please note that listing will incur a gas fee similar to trading. CryptoWar will also ask for players’ permission to use their CBC or CBW.
