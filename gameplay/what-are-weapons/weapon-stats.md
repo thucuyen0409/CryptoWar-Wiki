@@ -1,14 +1,14 @@
 # Weapon Attributes
 
-Weapon attributes are the different stats found under a weapon, and are used in conjunction with character power to determine the player's rolls for combat.
+Weapon attributes are different stats enlisted below particular weapon, that are administered in sync with character power for fixing player’s combat activities.
 
-Each attribute comes with an element pairing and a numerical value.
+Every attribute is laced with pair of elements and their corresponding associated number.
 
 ## Attribute Count
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-count.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-count.png)
 
-The rarity of the weapons is used to determine the amount of attributes each weapon has according to the table below.
+The table below contains information about the amount of attributes of particular weapon, which is calibrated by weapon rarity.
 
 | Weapon Rarity | Number of Attributes |
 | :--- | :--- |
@@ -18,9 +18,9 @@ The rarity of the weapons is used to determine the amount of attributes each wea
 
 ## Attribute Element
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-element.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-element.png)
 
-Attributes come in five different forms, with four of the five having a specific element pairing and one attribute being neutral. Refer to the table below for element pairings.
+There are five distinct types of attributes, four of which has a specific element pairing and one of which is neutral. Below is detailed information about element pairings for your reference:
 
 | Attribute Name | Element Pairing |
 | :--- | :--- |
@@ -30,15 +30,15 @@ Attributes come in five different forms, with four of the five having a specific
 | INT | Water |
 | PWR | Neutral |
 
-Pairing attributes to the character element only affects the chance of winning when using that weapon in combat. More information on combat calculation can be found here:
+The odds of winning while employing that weapon in combat lie in presence of better pairing attributes and  character element. Further information about combat calculation can be discovered here:
 
 {% page-ref page="../fighting/" %}
 
 ## Attribute Value
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-value.png)
+![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-value.png)
 
-Each attribute also has a numerical value attached to it that is randomized from a minimum and maximum roll that is determined by the weapon rarity. Refer to the table below for stat values.
+Each attribute has a corresponding numerical value recognized by the weapon rarity and randomized by minimum and maximum roll. Stat values are enumerated in the under-mentioned table:
 
 | Weapon Rarity | Minimum Roll | Maximum Roll |
 | :--- | :--- | :--- |
@@ -48,28 +48,23 @@ Each attribute also has a numerical value attached to it that is randomized from
 | 4-star | 200 | 400 |
 | 5-star | 268 | 400 |
 
-Attribute values are used alongside character stats in determining the following:
-
-* Total attribute values along with character power is used to determine the power ranges of targets in combat.
-* Total attribute values along with attribute elements and character power is used to determine the rolls the player may have when fighting an enemy.
+Attribute values along with character stats are fully utilized to indicate that total attribute values combined with character power is employed to determine target power ranges in each combat. Aside from that, total attribute values, attribute elements and character power as well are used to measure the rolls each players might possess when engaging in a combat.
 
 More information on combat calculations can be found here:
 
 {% page-ref page="../fighting/" %}
 
 {% hint style="info" %}
-For practical purposes in evaluating weapons, the Displayed Percentages explained in the section below will be more beneficial to the average player.
+Below are adequate explanations about the Displayed Percentages, which turn out to be quite beneficial for players at average level in terms of evaluating the strength of weapons.
 {% endhint %}
 
 ## Displayed Percentages
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4fdaec637043d778d2a330b7b0b54d2f321c0e19/.gitbook/assets/weapon-attribute-percentage.png)
 
-When hovering over a weapon with a character selected, the player will find a percentage value next to each attribute.
+Players can be notified of the percentage value next to each attribute while selecting a character. These percentages are used to assess the impact of specific attribute when taking the selected character’s element into account.
 
-These percentages are used to quantify the impact that particular attribute has when considering the element of the selected character.
-
-The formula to determine that percentage in decimal form is outlined below.
+Below is the formula for converting percentage to decimal form:
 
 ```text
 if attributeElement != charElement (attributeValue * 0.0025)
@@ -77,13 +72,13 @@ if attributeElement == PWR (attributeValue * 0.002575)
 if attributeElement == charElement (attributeValue * 0.002675)
 ```
 
-This means that the maximum displayed percentage would be 107% for a paired attribute with a value of 400.
+Given the abovementioned formula, for a paired attribute with a value of 400, the maximum fixed percentage would be 107%.
 
 {% hint style="info" %}
-For the purposes of determining the value of a weapon, it would be easier to total the percentages displayed when viewing the weapon with the character to be used.
+It proves to be fairly easy to compute fixed percentages while checking over the weapon with the character to be used as a means to evaluate the value of a weapon.
 
-A high total percentage would mean that on average, fights with that weapon would receive a higher payout on victory.
+The higher total percentage corresponds to higher payout players collect on each victory.
 
-Attribute element is still important when it comes to win rate, however this can be solved through careful selection of opponents.
+Attribute element remains to be harshly critical to win rate. Nevertheless, this can be resolved by methodically choosing its enemy.
 {% endhint %}
 
