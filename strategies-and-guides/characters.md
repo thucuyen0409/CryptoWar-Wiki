@@ -1,6 +1,6 @@
 # Characters
 
-## Your First Character/s
+## Your First Character
 
 Players can proceed with their profit-oriented strategies by minting their first hero and acquiring a 1-star weapon compatible with its hero at no cost. It is acceptable for players to mint four characters at the same time. Be that as it may, they are far-fetched to possess similar elements. There are numerous tactics to fetch a powerful weapon for your heroes such as purchasing them on market place, keeping minting or selling those that don’t closely correspond to your desirable element. \(For example: a Fire sword should be a perfect match 4 Fire heroes\) 
 
