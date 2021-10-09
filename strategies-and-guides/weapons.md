@@ -2,45 +2,38 @@
 
 ## Choosing a Weapon
 
-The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character, win rate should not fluctuate even if you use a higher rarity weapon and face higher powered monsters.
+xBlade payout is directly proportional to players’ weapon rarity. Assuming that players select weapons with high rarity and fight with higher-powered monsters, the win rate will be unchangeable owing to the formula adjustment based on players’ handpicked weapon and character. Besides, players are encouraged to find superb 4-star or 5-star weapons to start acquiring xBlade as well as form a team around that weapon. Players may possibly purchase the characters first then choose a weapon compatible with their team element. In case players can’t purchase or mint 4 or 5-star weapon, they can opt for a weapon with the highest numerical stats in order to achieve the maximum payout of xBlade.
 
-It is advisable to find a good 4-star or 5-star weapon to begin earning xBlade, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
-
-If you cannot buy or mint a 4-5 star weapon, choose a weapon with as high numerical stats as possible for maximum xBlade payout.
+It is noteworthy that players should take account of their budget before performing all the above-mentioned transactions.
 
 ## Weapon Element
 
-Because of the Trait Bonus in the combat formula, it is always recommended to use a weapon whose element matches the hero
-
-Using a weapon whose element matches the hero provides a bonus equivalent to choosing a monster where you have advantage against.
+Due to the fact that trait Bonus is determined on the basis of comparing character element to its chosen enemy element, players are strongly advised to employ a weapon corresponding to its hero element, bringing players an extra bonus equal to beating a monster that they are gaining an upper hand of it. 
 
 ## Weapon Attributes
 
-When the element of the weapon matches the character, it comes down to weapon's attributes to decide if it is a good weapon.
+The evaluation of weapon power can be carried out dependent on its attribute once weapon element is on the par with its character. It would be appear that fetching a weapon with elements and attributes having high numerical values, which corresponds to its character, has drawn up a bright prospect for players. However, such weapons are high-end items and might perhaps cost players a pretty penny to make a purchase of it. 
 
-The ideal scenario is to get a weapon whose elements and attributes all match the character, and all attributes having high numerical values. Such weapons are valued very highly, and can get quite expensive on the marketplace.
+There supposes to be two major points to grasp here:
 
-When operating on a budget, some concessions have to be made regarding weapon choice.
+<li>Players are required to make some concessions on selecting preferred weapons when activating their budget.</li>
 
-Other than matching the weapon element to the character, it is recommended to choose a weapon with high numerical stats, regardless of elemental matching.
+<li>Players are advised to pick weapon with high numerical stats irrespective of elemental matching, aside from putting every effort to select a weapon with element correspondent with its character.</li>
 
-A high numerical stat total results in higher xBlade payout per fight, and the win rate impact of having unmatched stats can be mitigated if the player makes optimal choices in combat.
+The higher total numerical stat correlates with higher payout of xBlade after each battle. Making the best use of weapons in each combat might possibly lessen the impact of having unmatched stats on win rate. 
 
 {% hint style="info" %}
-Different rarities of weapons have different minimum and maximum attribute value totals. The minimum and maximum total attributes for weapons above 3-star are listed below:
+Differences in weapon rarities reflect the differences in total value of attributes. The minimum and maximum of total attributes for weapons of 3-star and above is listed below:
 
 * 3-star : 280 - 400
 * 4-star : 400 - 800
 * 5-star : 804 - 1200
 {% endhint %}
 
-If a character is selected when choosing a weapon, users may find that deciding based on percentage is a better option if they wish to consider win rate.
-
-The percentage value of the weapon takes into account the character element, so choosing a high total percentage will lead to a weapon that has a high xBlade payout and a high win rate.
+When players mint their first character and acquire a 1-star weapon compatible with its character at no cost, they are highly recommended to take the percentage value of their weapon into consideration if they want to increase the odds of winning the battle. The higher the total percentage is the more xBlade payout each player acquires and the higher the win rate is.
 
 {% hint style="info" %}
-Similar to the numerical values, percentages also have different minimums and maximums. The values for total percentages of 3-star weapons and above are listed below:
-
+Percentages have distinct minimum and maximum rates which turn out to be the same as numerical values. The total percentage values of weapons of 3-star and above are listed below 
 * 3-star : 70% - 107%
 * 4-star : 100% - 214%
 * 5-star : 201% - 321%
@@ -48,9 +41,15 @@ Similar to the numerical values, percentages also have different minimums and ma
 
 ## Weapon Choice Conclusions
 
-Based on the above information, we can make several key decisions in choosing our weapon.
+Based on the above information, players can make several key decisions on choosing their weapon.
 
-* Always use a weapon that matches the character's element.
-* Choose a weapon with as high numerical stats as possible for maximum xBlade payout.
-* Try and match a weapon's attribute element with the character's element for an increase in win rate.
+<li>Employing a weapon corresponding to its character element.</li>
+
+<li>Choosing a weapon with the highest numerical stats to acquire the maximum payout of xBlade.</li>
+
+<li>Trying to fetch weapon with attribute element correspondent with character element to increase the chance of win rate.</li>
+
+
+
+
 
