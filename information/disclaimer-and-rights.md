@@ -1,7 +1,6 @@
-# DISCLAIMER AND  RIGHTS
+# Disclaimer and Rights
 
-This document is not final and will be updated from time to time. The purpose of this document is to provide selected details about the gameplay and the economy of CryptoWar. The information set forth in this document may not be exhaustive and does not imply any element of a contractual relationship. Nothing in this document shall be deemed to constitute a prospectus of any sort or a solicitation for investment.
-
+The CryptoWar team promises to supply players with all concrete data regarding the gameplay and in-game economic environment, as well as keep them updated on progress via this website. All of the material on the website is not guaranteed to be accurate or relevant to any contractual relationship. In addition, these details will never be used in any solicitation for authorized investors.
   
-All community contributions to this document may be freely used by the CryptoWar Team, and incorporated into other works, with rights equivalent to ownership. By commenting and providing feedback on this document, you agree that any contributions to this document that you make may be used, reproduced, distributed, publicly performed, publicly displayed, and used to create derivative works, on a non-exclusive basis, throughout the universe, in all forms of media now known or created in the future, and that the foregoing rights are sublicensable and transferable. By commenting and giving feedback within this document or any other related channels \(such as Twitter, Telegram, or Discord\), you are permitting the CryptoWar Team to include your ideas and concepts into future game features as the CryptoWar Team sees fit.
+Contributions from the community have proven to be extremely useful assets in the development of our website, which can now be freely used by our team for new projects such as copying, distributing, and so on as a way of transferring intellectual property rights. Any comments or feedback submitted on this website or other platforms like **Twitter, Telegram, or Discord** give us permission to include them in future game features if they fit our goals. 
 
