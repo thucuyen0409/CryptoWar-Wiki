@@ -2,7 +2,7 @@
 
 ## Choosing a Weapon
 
-xBlade payout is directly proportional to players’ weapon rarity. Assuming that players select weapons with high rarity and fight with higher-powered monsters, the win rate will be unchangeable owing to the formula adjustment based on players’ handpicked weapon and character. Besides, players are encouraged to find superb 4-star or 5-star weapons to start acquiring xBlade as well as form a team around that weapon. Players may possibly purchase the characters first then choose a weapon compatible with their team element. In case players can’t purchase or mint 4 or 5-star weapon, they can opt for a weapon with the highest numerical stats in order to achieve the maximum payout of xBlade.
+xBlade payout is directly proportional to players’ weapon rarity. Assuming that players select weapons with high rarity and fight with higher-powered monsters, the win rate will be unchangeable owing to the formula adjustment based on players’ handpicked weapon and character. Besides, players are encouraged to find superb 4-star or 5-star weapons to start acquiring xBlade as well as form a team around that weapon. Players may possibly purchase the characters first then choose a weapon compatible with their team element. In case players can’t purchase or mint 4 or 5-star weapon, they can opt for a weapon with the highest numerical stats in order to achieve the maximum payout of xBlade. 
 
 It is noteworthy that players should take account of their budget before performing all the above-mentioned transactions.
 
