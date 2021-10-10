@@ -15,9 +15,9 @@ To determine the eligibility of claim, gamers have to keep a copy of subsequent 
 
  [**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3_ZZluteJ8DxeZIQio_jLK21ijs/edit?usp=sharing)
 
-A summary of experience measuring table is given below:
+A summary of experience measuring table can be found here:
 
-![CWE](https://i.imgur.com/UjYu1Mu.png)
+{% page-ref page="../character-levels-&-required-experience-per-level/" %}
 
 ## When to claim Experience ?
 
