@@ -17,7 +17,7 @@ The development fund vests at a rate of 5% per month.
 
 ## Token Distribution & Liquidity generations
 
-To avoid bot and pump & dump situation, xBlade will be distributed in 96 distribution rounds at https://www.cryptowar.network/fair-distribution 
+To avoid bot and pump & dump situation, xBlade will be distributed in 96 distribution rounds at https://www.cryptowar.network/buy
 
 Please check following table for more information: 
 https://docs.google.com/spreadsheets/d/1kzUyGFPqM3uGTGOQZp1zgBfmzAfHc7GPj81nTW-WYzA/edit#gid=0
