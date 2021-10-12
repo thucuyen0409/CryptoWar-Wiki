@@ -1,22 +1,22 @@
 # Terms of Use
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity \(“you"\) and CryptoWar Team \(“we", “us", or “our"\) concerning your access to and use of the www.cryptowar.network website and the CryptoWar Team app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto \(collectively, the “Site" and the “App"\). CryptoWar Team is a distributed application that is currently running on the Ethereum Network, Loom Network and BINANCE SMART CHAIN \(the "Blockchains"\), using specially-developed smart contracts \(each, a “Smart Contract”\) to enable users to own, transfer, battle, and breed genetically unique digital creatures. It also enables users to own and transfer other digital assets like plots of land and items. These assets can then be visualized on a website that the user can interact with the Site. The Smart Contracts and the Site are collectively referred to in these Terms as the “App”. Using the App, users can view their assets and use the Smart Contracts to acquire, trade, battle, and breed creatures with other App users.
+The "Terms of Use" are indeed a legally binding agreement between you and CryptoWar Team regarding access to our website www.cryptowar.network, CryptoWar Team apps, and other digital devices directly linked to our apps such as media form, media channel, mobile website, or mobile application (referred to as the "Site" or "App"). CryptoWar is a decentralized application that runs on the Ethereum Network, Loom Network, and BINANCE SMART CHAIN (collectively, the "Blockchains") and makes use of specially-developed smart contracts ("Smart Contracts") to enable you to execute in-game transactions and facilitate the formation of a hybrid crypto currency. Furthermore, you are given the ability to own and trade various digital assets, such as lands and items, which may then be displayed on the website and used to interact with it. You may be able to monitor their assets using the "App" (the common name for both the Smart contract and the Site), as well as conduct in-game transactions as well as trade hybrid creatures with other App users/players. If you are accepting these Terms on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so and that you have the authority to bind that entity to these Terms, in which case the terms "you" and "we, us, our" as used in these Terms shall refer to that entity.
 
 ‌
 
-WE ARE ONLY WILLING TO MAKE THE APP, THE SMART CONTRACTS, AND THE SITE AVAILABLE TO YOU IF YOU ACCEPT ALL OF THESE TERMS. BY USING THE APP, THE SMART CONTRACTS, THE SITE, OR ANY PART OF THEM, OR BY CLICKING “I ACCEPT” BELOW OR INDICATING YOUR ACCEPTANCE IN AN ADJOINING BOX, YOU ARE CONFIRMING THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL OF THESE TERMS OF USE. IF YOU DO NOT AGREE AND/OR ACCEPT ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE, THE APP AND THE SMART CONTRACTS AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+ONLY IF YOU ACCEPT ALL OF THESE TERMS WILL WE MAKE THE APP, THE SMART CONTRACTS, AND THE SITE AVAILABLE TO YOU. YOU ARE CONFIRMING THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL OF THESE TERMS OF USE BY USING THE APP, THE SMART CONTRACTS, THE SITE, OR ANY PART OF THEM, OR BY CLICKING “I ACCEPT” BELOW OR INDICATING YOUR ACCEPTANCE IN AN ADJOINING BOX. YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE, THE APP, AND THE SMART CONTRACTS AND MUST DISCONTINUE USE IMMEDIATELY IF YOU DO NOT AGREE AND/OR ACCEPT ALL OF THESE TERMS OF USE.
 
 ‌
 
-Supplemental terms and conditions or documents that may be posted on the Site, the App, and the Smart Contracts from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you of any changes by updating the “Last Updated" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site, the App, and the Smart Contracts after the date such revised Terms of Use are posted.
+Additional terms & conditions, as well as information published on the Site, the App, and the Smart Contracts, will be updated on a regular basis. We also reserve the right, in our sole discretion, to make changes or revisions to these Terms of Use at any time and for any reason. By amending the "Last Updated" date of these Terms of Use, you agree to waive any right to receive explicit notice of any such change. You are responsible for reading these Terms of Use on a regular basis to ensure that you are aware of any changes. You will be subject to, and will be deemed to have been made aware of, and to have accepted, the updated Terms of Use by continuing to use the Site, the App, and the Smart Contracts after the day such revised Terms of Use are posted.
 
 ‌
 
-The information on the Site, the App and the Smart Contracts are not intended for distribution to or used by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site and/or the App from other locations do so on their own initiative and are solely responsible for compliance of local laws, if and to the extent local laws are applicable.
+The information on the Site, the App, and the Smart Contracts is not intended for distribution to or use by any person or entity in any territory or nation where such distribution or use would be prohibited by law or regulation, or where we would be required to register. As a result, viewing or accessing the Site and/or the App from other locations has shown to be a bad idea, and those who do so accept full responsibility for adhering to local laws, if and to the extent that local laws apply.
 
 ‌
 
-The Site is intended for users who are at least 18 years old. People under the age of 18 are not permitted to use or register for the Site, the App, and the Smart Contracts.
+All users over the age of 18 are welcome to use the site. The Site, the App, and the Smart Contracts are not available to anybody under the age of eighteen.
 
 ‌
 
@@ -24,7 +24,7 @@ The Site is intended for users who are at least 18 years old. People under the a
 
 ‌
 
-Unless otherwise indicated, the Site and the App and the Smart Contracts are our proprietary property and all source code, database, functionality, software, website design, audio, video, text, photographs, and graphics on the Site and the Apps \(collectively, the “Content"\) and trademarks, service marks and logos contained therein \(the “Marks"\) are owned, controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the Cayman Islands, foreign jurisdiction and international conventions. Except as expressly provided in these Terms of Use, no part of the Site, the App as well as the Smart Contract and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+Unless otherwise indicated, the Site and the App and the Smart Contracts are our proprietary property and all source code, database, functionality, software, website design, audio, video, text, photographs, and graphics on the Site and the Apps \(collectively, the “Content"\) as well as trademarks, service marks and logos contained therein \(the “Marks"\) are owned, controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws international conventions. Except for regulations enforced in these Terms of Use, no part of the Site, the App, the Smart Contract as well as Content or Marks is allowed to be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or exploited for any commercial purpose whatsoever without our express prior written permission. .
 
 ‌
 
@@ -32,24 +32,25 @@ Provided that you are eligible to use the Site, the App and the Smart Contracts,
 
 ‌
 
-Provided that you own an ERC721 Cryptowar asset, you are granted a limited license to create fan-art and merchandise which can be used commercial given that you follow the terms set herein:
+You are granted a limited license to create fan-art and goods used for commercial purpose if you own ERC271 CryptoWar asset, following the terms below:
 
 ‌
 
-1. Anyone creating fanart of Cryptowars needs to either own the Cryptowar they are creat1ing fan art from or receive permission from that Cryptowars owner.
-2. Fan artwork must not use official Cryptowar assets, but creating unique art using Cryptowar assets as inspiration is acceptable.
+1. Anyone making Crypto fan-art must either own the CryptoWar they are fan-arting from or gain permission from the CryptoWar owner. 
+
+2. Fan artwork can create unique art inspired from cryptowar assets. It must not use official cryptowar assets.
 
 ‌
 
-2- The artwork must clearly state “CryptoWar Team Fanart”, link to[ https://www.cryptowar.network/](https://www.axieinfinity.com/), and link directly to the Cryptowar that is being used for inspiration.
+3. The artwork must clearly state 'Cryptowar team Fanart' and link to https://www.cryptowar.network/ so that it can be known from where the art is inspired. So the Fanart link can also be linked with the Cryptowar asset which is used to create the new Fan art
 
 ‌
 
-1. An Cryptowar NFT can be used to generate a maximum of $10,000 in revenue before an official license agreement has to be signed. The revenue can come from either fanart \(tokenized or physical\) or merchandise \(t-shirts, mugs, hoodies, etc\).
+4. Before an official license agreement is executed,  CryptoWar NFT can be used to generate revenue from fanart \(tokenized or physical\) or merchandise \(t-shirts, mugs, hoodies, etc\), which can be up to $10,000 in total.
 
 ‌
 
-Creating original fanart without monetizing it is acceptable without any license or ownership.
+Creating an original fanart with no profit-focused purpose is legitimate and needn't seek any permission of license or ownership.
 
 ‌
 
