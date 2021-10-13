@@ -2,43 +2,31 @@
 
 ## How much stamina to spend?
 
-Spending a larger amount of stamina per fight would result in the same dollar value return when considering gas, but may result in a smaller average payout over a long period of time if the player loses multiple fights.
+While consuming more stamina means you can win the fight faster, the returning rewards are the same when factoring in the gas fee and the average payout becomes smaller in the long run if players lose their fights.
 
-Higher stamina spending amplifies any losses the player may get, but in return saves time and gas especially if the player is operating with multiple accounts and/or a budget in gas BNB.
-
-Choose according to your time and gas.
+However, if you are playing on multiple accounts with a sizeable budget in gas BNB, higher stamina consumption can save you a lot of time and gas, provided that you can win most of your fights.
 
 ## Choosing Monsters
 
-It is recommended to choose a monster with an element that your character has an advantage against.
+The range of enemies you are able to fight are randomized but still follow an undisclosed formula based on your character and weapon. As a result, it is possible for you to defeat the whole batch or nothing at all since account elements are not in this formula. Thus, you can greatly increase your win rate by choosing a monster with an element that your characters and weapons have an advantage against. It is not advised to picked those that have an advantage against your elements as it is more likely that you would suffer a loss.
 
-The formula that calculates the randomized enemies you encounter is based off of your selected character and weapon. This means that theoretically you are always given a range of monsters that are all possible to defeat.
-
-Because the calculation doesn't take into account elements, you can secure a high win rate by choosing weapons that match your element and choosing monsters that you have an advantage against.
 
 {% hint style="info" %}
-If your stamina is about to overflow, and you have no monsters where you have elemental advantage against, you may choose to fight enemies of other elements.
-
-Fighting a similar or off-element monster incurs no bonus but incurs no penalties against.
-
-As much as possible, try to avoid fighting into elemental disadvantage.
+In case your stamina is about to be physically drained and players don’t get the upper hand of element trump, they are advocated to go into battles with enemies of other elements. Bonus or penalty will not be exercised if players fight with the same enemies or enemies with different elements. Besides, it is suggested that players should not engage in battles where they are at a disadvantage.
 {% endhint %}
 
 ## Hourly Refresh
 
-Sometimes you get sent a randomized set of monsters where you have no elemental advantage. If you have the stamina to spare, you may opt to wait for the next refresh to receive a new set of monsters to attack
+You may get unlucky sometimes and get a batch full of monsters that you have no elemental advantage against. If you still have stamina, it is advised that you wait for a new randomized batch, which occur every hour at UTC+0.
 
-Every hour at UTC +0, the monsters refresh. CryptoWar prevents combat in the final 30 seconds of each hour to prevent EVM errors, though it is recommended to wait for the full refresh if it is about to come to prevent any transaction errors due to missing monsters.
+To prevent EVM errors, all players will be unable to start a fight in the final 30 seconds of each hour. During this 30-second period, players should wait for the hourly fresh and not start any fight as missing monsters may cause transaction errors.
 
 ## High Power and Low Power
 
-Monster's power ranges from ±10% of the calculated value, and as such have a wide variance especially if your character levels get higher.
+Monsters' power experiences a fluctuation of ±10% of the predicted value. For that reason, there is a lot of variation, especially as players’ character levels rise.
 
 The choice to target a high-powered enemy against a low-powered enemy boils down to choosing payout over win rate.
 
-Choosing high-powered enemies have a higher chance of loss but have a higher experience and xBlade payout as well.
+Battling with high-powered enemies may possibly run the risk of failing the game but increase the chance of acquiring more experience as well as xBlade payout and vice versa. New players are highly recommended to select lower-powered enemies so as to maintain their xBlade payout and experience points.
 
-Choosing low-powered enemies results in a higher win rate with a lower experience gain and xBlade payout.
-
-For new players, it is recommended to choose lower-powered enemies to guarantee a reward and experience progression.
 
