@@ -11,7 +11,7 @@ You might receive EVM errors if you start your fight before the hourly reset. Ev
 
 ## Getting Started Page Stuck
 
-![image](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/welcome-page.png)
+<a href="https://imgur.com/ky0ZJyZ"><img src="https://i.imgur.com/ky0ZJyZ.png" title="source: imgur.com" /></a>
 
 You are required to hold a certain amount of xBlade in your wallet to get access to our welcome page and recruit your first character. 
 Please proceed to the following page for further information on how to purchase xBlade 
