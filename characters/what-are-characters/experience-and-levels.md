@@ -22,7 +22,7 @@ An overview of the experience table can be found below:
 
 ## When to claim Experience ?
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/f392473443d3dd3c5be8a4021f5df9b0cf226d6b/.gitbook/assets/claim-exp.png)
+<a href="https://imgur.com/SZGJCAF"><img src="https://i.imgur.com/SZGJCAF.png" title="source: imgur.com" /></a>
 
 Experience won through battles is stored in the Rewards bar, similar to xBlade
 
