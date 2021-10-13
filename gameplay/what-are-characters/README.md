@@ -1,6 +1,6 @@
 # Characters
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/3b019ad181617871935f37f99d835907c5a0307a/.gitbook/assets/characters.png)
+<a href="https://imgur.com/aiCzAty"><img src="https://i.imgur.com/aiCzAty.png" title="source: imgur.com" /></a>
 
 CryptoWar characters are the most important NFTs as they are the essential pillar for success of every battle. Players must possess at least one character in their account and each account can hold a maximum of 4 characters.
 
