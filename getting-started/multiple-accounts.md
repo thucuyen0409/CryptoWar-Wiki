@@ -6,16 +6,20 @@ You can create multiple accounts in your MetaMask wallet as follows.
 
 Click on the favicon on the upper right side of your screen and select "Create Account".
 
+
 ![image](https://user-images.githubusercontent.com/90205972/134547215-f78d7ba9-43ed-4bd9-b677-341a25132ed6.png)
 
 
 Click on “MetaMask icon” in your extension tab and tab on “Not connected” in case your second account has not been recognized by the system.
 
+
 ![image](https://user-images.githubusercontent.com/90205972/134549192-61a770ed-b851-48ce-aedc-09148e153c7f.png)
+
 
 Click on the "Connect" button when prompted.
 
-![iamge](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connect-button.png)
+
+<a href="https://imgur.com/9xFxVvp"><img src="https://i.imgur.com/9xFxVvp.png" title="source: imgur.com" /></a>
 
 
 
